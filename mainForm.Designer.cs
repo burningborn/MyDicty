@@ -336,6 +336,7 @@ namespace MyDicty
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "mainForm";
             this.Text = "PolyGlot";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.formClosing);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

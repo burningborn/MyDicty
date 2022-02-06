@@ -1709,7 +1709,7 @@
  suitcase *  чемодан
  sum *  сумма
  summer *  лето
- sun *  солнце
+ sun * солнце
  Sunday *  воскресенье
  supply *  поставка
  support *  поддержка

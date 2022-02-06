@@ -42,6 +42,13 @@ namespace myDicti
                 return true;
             }
         }
+        public bool conteinsItem(string item)
+        {
+            if (Variants.Contains(item))
+                return true;
+            else
+                return false;
+        }
         public string searchByEiem(string varItem)
         {
             if (Variants.Contains(varItem))
@@ -68,16 +75,16 @@ namespace myDicti
             string sum = "";
             foreach (var item in Variants)
                 sum += " " + item;
-
+                sum.TrimStart();
             return Key + " * " + sum;
         }
         public override string ToString()
         {
-            string sum = "";
+            string sum = null;
             foreach (var item in Variants)
                 sum += " " + item;
 
-            return sum;
+            return sum.TrimStart();
         }
     }
 }

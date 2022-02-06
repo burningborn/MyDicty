@@ -23,13 +23,23 @@ namespace myDicti
 
         //-------------------------------МЕТОДЫ--------------------------
 
-        public void addItem(string key, string tranceVar)
+        public bool addItem(string key, string tranceVar)
         {
+            bool addItem = false;
             foreach (var item in thisDictionary)
             {
                 if (item.Key == key)
-                    item.Value.AddValue(tranceVar);
+                {
+                    if (!item.Value.conteinsItem(tranceVar))
+                    {
+                        item.Value.AddValue(tranceVar);
+                        addItem = true;
+                    }
+                    else
+                        addItem = false;
+                }
             }
+            return addItem;
         }
 
         public bool removeItem(string key, string tranceVar)
@@ -41,8 +51,6 @@ namespace myDicti
                 {
                     if (item.Value.RemoveOneVar(tranceVar))
                         remove = true;
-                    else
-                        remove = false;
                 }
             }
                 return remove;
@@ -73,7 +81,7 @@ namespace myDicti
         }
         public void LanguageBaseLoad(string Path)  //загрузка слваря
         {            
-            string line = ""; // перменная для приёма строки из файла       
+            string line = null; // перменная для приёма строки из файла       
             if (File.Exists(Path)) //проверка открытия файла
             {
                 using (StreamReader sr = new StreamReader(Path)) //открытие файла на чтение
@@ -85,10 +93,14 @@ namespace myDicti
                         line = Regex.Replace(line, @"[*,\[\]]", "");
                         string[] list = line.Split();          // делим строку на слова
                         List<string> temp = new List<string>();
+                        string trimSpace = null;
                         for (int i = 0; i < list.Length; i++)
                         {
                             if (list[i] != "")
-                                temp.Add(list[i]);
+                            {
+                                trimSpace = list[i];
+                                temp.Add(trimSpace.Trim());
+                            }
                         }
                         Word<string, List<string>> tempWord = new Word<string, List<string>>(temp[0], temp[1]); // записываем первое слово как ключ
                         for (int i = 2; i < temp.Count; i++)

@@ -124,9 +124,13 @@ namespace MyDicty
 
         private void addItemFunc()  // функция добавления варианта перевода
         {
-            CurrentDicti.addItem(keyBox.Text, addRemoveItem(translateBox.Text));
-            translateBox.Text = CurrentDicti.GetWord(keyBox.Text);
-            MessageBox.Show("Перевод добавлен");
+            if (CurrentDicti.addItem(keyBox.Text, addRemoveItem(translateBox.Text)))
+            {
+                translateBox.Text = CurrentDicti.GetWord(keyBox.Text);
+                MessageBox.Show("Перевод добавлен");
+            }
+            else
+                MessageBox.Show("Этот авриант перевода уже существует");
         }
         private void addItemBtn_Click(object sender, EventArgs e) // добавление варианта перевода через кнопку
         {
@@ -223,7 +227,19 @@ namespace MyDicty
 
         private void radioWordBtn_CheckedChanged(object sender, EventArgs e)
         {
-            searchFlag = true;
+            searchFlag = true;     
+        }
+
+        private void formClosing(object sender, FormClosingEventArgs e)
+        {
+            var result = MessageBox.Show("Save your Dictionary?", "Message", MessageBoxButtons.YesNoCancel);
+            if (result == DialogResult.Cancel)
+                e.Cancel = true;
+            if (result == DialogResult.Yes)
+            {
+                string _filename = "";
+                saveFile(_filename);
+            }
         }
     }
 }       
