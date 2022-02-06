@@ -1,1998 +1,2000 @@
-a *  неопределенный артикль
-ability *  способность
-able *  способный
-about *  насчет
-above *  вверху
-abroad *  за границей
-absence *  отсутствие
-absent *  отсутствующий
-absolutely *  абсолютно
-accept *  принимать
-accident *  авария
-according *  (to) согласно
-account *  счет
-achieve *  достигать
-acid *  кислота
-across *  поперек
-act *  действовать
-action *  действие
-active *  активный
-activity *  деятельность
-actor *  актер
-actual *  фактический
-actually *  на самом деле
-add *  прибавлять
-addition *  дополнение
-address *  адрес
-adjective *  прилагательное
-admire *  восхищаться
-admit *  допускать
-adult *  взрослый
-advanced *  передовой
-advantage *  преимущество
-adventure *  приключение
-adverb *  наречие
-advertisement *  реклама
-advice *  совет
-advise *  советовать
-affair *  дело
-affect *  влиять
-afford *  позволить себе
-afraid *  боящийся
-after *  после
-afternoon *  после полудня
-again *  опять
-against *  против
-age *  возраст
-agency *  агентство
-ago *  тому назад
-agree *  соглашаться
-agreement *  соглашение
-ahead *  впереди
-aim *  цель
-air *  воздух
-airplane *  самолет
-airport *  аэропорт
-alcohol *  алкоголь
-alive *  живой
-all *  все
-allow *  позволять
-almost *  почти
-alone *  одинокий
-along *  вдоль
-alphabet *  алфавит
-already *  уже
-also *  также
-although *  хотя
-always *  всегда
-among *  между
-amount *  количество
-amuse *  развлекать
-amusing *  забавный
-ancient *  античный
-and *  и
-anger *  гнев
-angle *  угол
-angry *  сердитый
-animal *  животное
-announce *  объявлять
-annoy *  раздражать
-another *  другой
-answer *  ответ
-anxiety *  тревога
-anxious *  тревожный
-any *  сколько-нибудь
-anybody *  любой
-anymore *  больше не
-anyone *  любой
-anything *  что-нибудь
-anywhere *  где угодно
-apart *  отдельно
-apartment *  квартира
-appear *  показываться
-appearance *  внешний вид
-apple *  яблоко
-appropriate *  подходящий
-approval *  одобрение
-approve *  одобрять
-April *  апрель
-area *  пространство
-argue *  спорить
-argument *  аргумент
-arm *  рука
-army *  армия
-around *  вокруг
-arrange *  организовывать
-arrangement *  соглашение
-arrival *  прибытие
-arrive *  прибывать
-art *  искусство
-article *  статья
-artificial *  искусственный
-artist *  художник
-as *  как
-ashamed *  пристыженный
-ask *  спрашивать
-asleep *  спящий
-association *  ассоциация
-at *  у
-atom *  атом
-attach *  прикреплять(ся)
-attack *  атаковать
-attempt *  попытка
-attend *  посещать
-attention *  внимание
-attitude *  отношение
-attract *  привлекать
-attractive *  привлекательный
-August *  август
-aunt *  тетя
-author *  автор
-authority *  власть
-autumn *  осень
-available *  доступный
-average *  средний
-avoid *  избегать
-awake *  просыпаться
-away *  далеко
-awkward *  неловкий
-baby *  ребенок
-back *  назад
-background *  фон
-bad *  плохой
-badly *  скверно
-bag *  сумка
-bake *  печь(ся)
-balance *  баланс
-ball *  мяч
-band *  банда
-bank *  банк
-bar *  бар
-base *  основа
-basic *  базовый
-basket *  корзина
-basketball *  баскетбол
-bath *  ванна
-battle *  битва
-be *  быть
-beach *  пляж
-beak *  клюв
-beam *  луч
-bean *  боб
-bear *  носить
-beard *  борода
-beat *  бить
-beautiful *  красивый
-beauty *  красота
-because *  потому что
-become *  становиться
-bed *  кровать
-beer *  пиво
-before *  до
-begin *  начинать
-beginning *  начало
-behave *  вести себя
-behavior *  поведение
-behind *  сзади
-belief *  вера
-believe *  верить
-bell *  колокол
-belong *  принадлежать
-below *  ниже
-belt *  ремень
-bend *  сгибать(ся)
-beneath *  под
-benefit *  польза
-beside *  рядом с
-best *  самое лучшее
-better *  лучший
-between *  между
-beyond *  за
-bicycle *  велосипед
-big *  большой
-bird *  птица
-birth *  рождение
-bite *  кусать(ся)
-black *  черный
-blade *  лезвие
-blame *  обвинять
-blind *  слепой
-block *  блокировать
-blood *  кровь
-blow *  дуть
-blue *  синий
-board *  доска
-boat *  лодка
-body *  тело
-boil *  кипятить(ся)
-bomb *  бомба
-bone *  кость
-book *  книга
-boot *  ботинок
-border *  граница
-boring *  скучный
-borrow *  брать в долг
-both *  оба
-bottle *  бутылка
-bottom *  низ
-bowl *  кубок
-box *  коробка
-boy *  мальчик
-brain *  мозг
-branch *  ветвь
-brave *  храбрый
-bread *  хлеб
-break *  ломать
-breakfast *  завтрак
-breast *  грудь
-breath *  дыхание
-breathe *  дышать
-brick *  кирпич
-bridge *  мост
-bright *  яркий
-bring *  приносить
-broad *  широкий
-broadcast *  трансляция (радио
-brother *  брат
-brown *  коричневый
-brush *  щетка
-bucket *  ведро
-build *  строить
-building *  здание
-bullet *  пуля
-bunch *  связка
-burn *  гореть
-burst *  взрыв
-bury *  хоронить
-bus *  автобус
-bush *  куст
-business *  дело
-busy *  занятой
-but *  но
-butter *  масло
-button *  кнопка
-buy *  покупать
-by *  у
-bye *  пока
-cake *  торт
-call *  вызывать
-calm *  спокойный
-camera *  фотоаппарат
-camp *  лагерь
-can *  мочь
-candy *  конфета
-cap *  кепка
-capital *  столица
-car *  автомобиль
-card *  карта
-care *  заботиться
-careful *  осторожный
-carry *  нести
-case *  случай
-castle *  замок
-cat *  кошка
-catch *  поймать
-cause *  причина
-ceiling *  потолок
-celebrate *  праздновать
-cell *  клетка
-cent *  цент
-center *  центр
-centimeter *  сантиметр
-central *  центральный
-century *  век
-ceremony *  церемония
-certain *  определенный
-chair *  стул
-chance *  шанс
-change *  менять
-character *  характер
-charge *  плата
-cheap *  дешевый
-cheat *  жульничать
-check *  проверять
-cheek *  щека
-cheerful *  веселый
-cheese *  сыр
-chemical *  химический
-chemistry *  химия
-chest *  грудная клетка
-chicken *  курица
-chief *  главный
-child *  ребенок
-chin *  подбородок
-chocolate *  шоколад
-choice *  выбор
-choose *  выбирать
-church *  церковь
-cigarette *  сигарета
-circle *  круг
-citizen *  гражданин
-city *  город
-claim *  требовать
-class *  класс
-clay *  глина
-clean *  чистый
-clear *  ясный
-clearly *  ясно
-clerk *  клерк
-clever *  умный
-climb *  взбираться
-clock *  часы
-close *  закрывать
-cloth *  ткань
-clothes *  одежда
-clothing *  одежда
-cloud *  облако
-club *  клуб
-coast *  побережье
-coat *  пальто
-coffee *  кофе
-coin *  монета
-cold *  холодный
-collect *  собирать
-collection *  коллекция
-college *  колледж
-color *  цвет
-comb *  гребень
-combination *  комбинация
-combine *  сочетать(ся)
-come *  приходить
-comfort *  комфорт
-comfortable *  удобный
-command *  команда
-common *  общий
-communicate *  сообщать
-communication *  коммуникация
-company *  компания
-compare *  сравнивать
-compete *  соревноваться
-competition *  соревнование
-complain *  (по)жаловаться
-complete *  завершать
-completely *  совершенно
-complicated *  сложный
-computer *  компьютер
-concern *  беспокойство
-concerning *  относительно
-concert *  концерт
-condition *  состояние
-confidence *  уверенность
-confident *  уверенный
-confuse *  путать
-connect *  соединять
-connection *  связь
-conscience *  совесть
-conscious *  сознательный
-consider *  рассматривать
-consist *  состоять (из)
-contain *  содержать
-container *  контейнер
-continue *  продолжать
-continuous *  непрерывный
-contract *  контракт
-control *  контроль
-convenient *  удобный
-conversation *  разговор
-cook *  готовить
-cookie *  печенье
-cool *  прохладный
-copy *  копировать
-corner *  угол
-correct *  правильный
-cost *  стоить
-cough *  кашлять
-count *  считать
-country *  страна
-courage *  храбрость
-course *  курс
-court *  суд
-cover *  покрывать
-cow *  корова
-crack *  трещина
-crash *  крах
-crazy *  сумасшедший
-cream *  крем
-create *  создавать
-creature *  существо
-crime *  преступление
-criminal *  преступный
-criticize *  критиковать
-crop *  с.-х. культура
-cross *  пересекать(ся)
-crowd *  толпа
-cruel *  жестокий
-crush *  (раз)давить
-cry *  плакать
-culture *  культура
-cup *  чашка
-cupboard *  шкаф
-cure *  лечить
-curl *  локон
-current *  текущий
-curtain *  занавес(ка)
-curve *  кривая
-customer *  клиент
-cut *  резать
-daily *  ежедневный
-damage *  повреждение
-dance *  танцевать
-danger *  опасность
-dangerous *  опасный
-dare *  сметь
-dark *  темный
-date *  дата
-daughter *  дочь
-day *  день
-dead *  мертвый
-deal *  дело
-death *  смерть
-debt *  долг
-December *  декабрь
-decide *  решать
-decision *  решение
-decrease *  снижать(ся)
-deep *  глубокий
-defeat *  наносить поражение
-defence *  защита
-defend *  защищать(ся)
-degree *  степень
-delay *  медлить
-delicate *  деликатный
-deliver *  доставлять
-demand *  требование
-department *  отдел
-depend *  зависеть
-depth *  глубина
-describe *  описывать
-description *  описание
-desert *  пустыня
-deserve *  заслуживать
-design *  дизайн
-desire *  желание
-desk *  письменный стол
-despite *  несмотря на
-destroy *  уничтожать
-detail *  деталь
-determination *  решительность
-determine *  определять
-develop *  развивать
-dictionary *  словарь
-die *  умирать
-difference *  разница
-different *  другой
-difficult *  трудный
-difficulty *  трудность
-dig *  копать
-dinner *  обед
-direct *  прямой
-direction *  направление
-director *  директор
-dirt *  грязь
-dirty *  грязный
-disappoint *  разочаровывать
-discover *  открывать
-discovery *  открытие
-discuss *  обсуждать
-discussion *  дискуссия
-disease *  болезнь
-disgusting *  отвратительный
-dish *  блюдо
-dismiss *  распускать
-distance *  дистанция
-divide *  делить(ся)
-do *  делать
-doctor *  врач
-document *  документ
-dog *  собака
-dollar *  доллар
-door *  дверь
-double *  двойной
-doubt *  сомнение
-down *  вниз
-draw *  рисовать
-dream *  мечта
-dress *  платье
-drink *  пить
-drive *  ехать
-drop *  ронять
-drug *  лекарство
-drum *  барабан
-drunk *  пьяный
-dry *  сухой
-duck *  утка
-due *  (+ to) обусловленный
-dull *  тупой
-during *  во время
-dust *  пыль
-duty *  долг
-each *  каждый
-ear *  ухо
-early *  ранний
-earn *  зарабатывать
-earth *  земля
-east *  восток
-eastern *  восточный
-easy *  легкий
-eat *  есть
-economic *  экономический
-economy *  экономика
-edge *  край
-educate *  воспитывать
-education *  образование
-effect *  эффект
-effective *  эффективный
-effort *  усилие
-egg *  яйцо
-eight *  восемь
-eighteen *  восемнадцать
-eighty *  восемьдесят
-either *  или
-elbow *  локоть
-elect *  избирать
-election *  выборы
-electric *  электрический
-electricity *  электричество
-electronic *  электронный
-eleven *  одиннадцать
-else *  еще
-embarrass *  смущать
-emotion *  эмоция
-emphasize *  подчеркивать
-employ *  нанимать
-employee *  сотрудник
-empty *  пустой
-encourage *  поощрять
-end *  конец
-enemy *  враг
-energy *  энергия
-engine *  двигатель
-engineer *  инженер
-English *  английский язык
-enjoy *  наслаждаться
-enough *  достаточный
-enter *  входить
-entertain *  развлекать
-entire *  весь
-entrance *  вход
-envelope *  конверт
-environment *  окружающая среда
-equal *  равный
-equipment *  оборудование
-escape *  побег
-especially *  особенно
-establish *  учреждать
-even *  даже
-evening *  вечер
-event *  событие
-ever *  всегда
-every *  каждый
-everybody *  всякий
-everyone *  каждый
-everything *  все
-everywhere *  везде
-evidence *  доказательства
-evil *  зло
-exact *  точный
-exactly *  точно
-examine *  исследовать
-example *  пример
-excellent *  отличный
-except *  кроме
-exchange *  обмен
-exciting *  захватывающий
-excuse *  извинять(ся)
-exercise *  упражнение
-exist *  существовать
-existence *  существование
-expect *  ждать
-expensive *  дорогой
-experience *  опыт
-expert *  эксперт
-explain *  объяснять
-explanation *  объяснение
-explode *  взрывать(ся)
-explosion *  взрыв
-express *  выражать
-expression *  выражение
-extreme *  крайний
-eye *  глаз
-face *  лицо
-fact *  факт
-factor *  фактор
-factory *  завод
-fail *  терпеть неудачу
-failure *  провал
-fair *  честный
-fairly *  довольно-таки
-faith *  вера
-fall *  падать
-false *  ложный
-familiar *  знакомый
-family *  семья
-famous *  известный
-far *  далекий
-farm *  ферма
-farmer *  фермер
-fashion *  мода
-fashionable *  модный
-fast *  быстрый
-fat *  жир
-father *  отец
-fault *  вина
-favor *  одолжение
-favorite *  любимый
-fear *  страх
-feather *  перо
-feature *  особенность
-February *  февраль
-feed *  кормить(ся)
-feel *  чувствовать
-feeling *  чувство
-female *  женщина
-fence *  забор
-fever *  жар
-few *  немного
-field *  поле
-fifteen *  пятнадцать
-fifty *  пятьдесят
-fight *  драться
-figure *  фигура
-fill *  заполнять
-film *  фильм
-final *  финальный
-finally *  в конце концов
-financial *  финансовый
-find *  находить
-fine *  прекрасно
-finger *  палец
-finish *  заканчивать
-fire *  огонь
-firm *  твердый
-fish *  рыба
-fit *  подходить
-five *  пять
-fix *  исправлять
-flag *  флаг
-flame *  пламя
-flat *  плоский
-flight *  полет
-float *  плыть на поверхности
-floor *  пол
-flow *  поток
-flower *  цветок
-fly *  летать
-fold *  складывать
-follow *  следовать
-food *  еда
-foot *  ступня
-football *  футбол
-for *  для
-forbid *  запрещать
-force *  сила
-foreign *  иностранный
-forest *  лес
-forever *  (на)всегда
-forget *  забывать
-forgive *  прощать
-fork *  вилка
-form *  форма
-formal *  формальный
-former *  бывший
-forty *  сорок
-forward *  вперед
-four *  четыре
-fourteen *  четырнадцать
-frame *  рамка
-free *  свободный
-freedom *  свобода
-freeze *  замерзать
-frequent *  частый
-fresh *  свежий
-Friday *  пятница
-friend *  друг
-friendly *  дружелюбный
-frightening *  пугающий
-from *  от
-front *  передний
-fruit *  фрукт(ы)
-full *  полный
-fun *  веселье
-funeral *  похороны
-funny *  смешной
-fur *  мех
-furniture *  мебель
-further *  дальнейший
-future *  будущее
-gain *  получать
-game *  игра
-garden *  сад
-gas *  газ
-gate *  ворота
-gather *  собирать(ся)
-general *  общий
-generally *  обычно
-generous *  щедрый
-gentle *  нежный
-get *  получить
-gift *  подарок
-girl *  девочка
-give *  дать
-glad *  довольный
-glass *  стекло
-global *  глобальный
-glue *  клей
-go *  идти
-goal *  цель
-god *  Бог
-gold *  золото
-good *  хороший
-goodbye *  до свидания!
-govern *  управлять
-government *  государство
-grade *  класс
-gradual *  постепенный
-grain *  зерно
-gram *  грамм
-grand *  великий
-grandfather *  дедушка
-grandmother *  бабушка
-grandparent *  бабушка или дедушка
-grass *  трава
-grateful *  благодарный
-grave *  могила
-gray *  серый
-great *  огромный
-green *  зеленый
-ground *  земля
-group *  группа
-grow *  расти
-growth *  рост
-guard *  охрана
-guess *  гадать
-guest *  гость
-guide *  путеводитель
-guilty *  виновный
-gun *  пистолет
-habit *  привычка
-hair *  волосы
-half *  половина
-hall *  зал
-hammer *  молот(ок)
-hand *  рука
-handle *  ручка
-hang *  вешать
-happen *  случаться
-happy *  счастливый
-hard *  трудный
-hardly *  вряд ли
-harm *  вред
-harmful *  вредный
-hat *  шапка
-hate *  ненавидеть
-have *  иметь
-he *  он
-head *  голова
-health *  здоровье
-healthy *  здоровый
-hear *  слышать
-heart *  сердце
-heat *  тепло
-heaven *  небеса
-heavy *  тяжелый
-heel *  пятка
-height *  высота
-hello *  привет
-help *  помощь
-helpful *  полезный
-here *  здесь
-herself *  себя
-hi *  привет
-hide *  скрывать(ся)
-high *  высоко
-hill *  холм
-himself *  сам
-history *  история
-hit *  ударять
-hold *  держать
-hole *  дыра
-holiday *  праздник
-holy *  священный
-home *  дом
-honest *  честный
-honor *  честь
-hope *  надеяться
-horn *  рог
-horse *  лошадь
-hospital *  больница
-hot *  горячий
-hotel *  отель
-hour *  час
-house *  дом
-how *  как
-however *  как бы ни
-huge *  огромный
-human *  человек
-hundred *  сто
-hungry *  голодный
-hunt *  охотиться
-hurry *  спешка
-hurt *  болеть
-husband *  муж
-I *  я
-ice *  лед
-idea *  идея
-if *  если
-ignore *  игнорировать
-ill *  больной
-illness *  болезнь
-image *  изображение
-imagination *  воображение
-imagine *  воображать
-immediate *  немедленный
-immediately *  немедленно
-importance *  важность
-important *  важный
-impressive *  впечатляющий
-improve *  улучшать(ся)
-improvement *  улучшение
-in *  в
-inch *  дюйм
-include *  включать в себя
-including *  включая
-income *  доход
-increase *  возрастать
-indeed *  в самом деле
-independent *  независимый
-individual *  индивидуальный
-industry *  индустрия
-infection *  инфекция
-influence *  влияние
-inform *  сообщить
-information *  информация
-injure *  ранить
-injury *  травма
-inner *  внутренний
-insect *  насекомое
-inside *  внутри
-instead *  вместо
-institution *  учреждение
-instruction *  инструкция
-instrument *  инструмент
-insult *  оскорбление
-insurance *  страхование
-intelligent *  интеллектуальный
-intend *  намереваться
-intention *  намерение
-interest *  интерес
-interesting *  интересный
-international *  международный
-interrupt *  прерывать
-into *  в
-introduce *  представлять
-introduction *  введение
-invent *  изобретать
-invitation *  приглашение
-invite *  приглашать
-involve *  вовлекать
-iron *  железо
-island *  остров
-issue *  проблема
-it *  это
-itself *  сам
-January *  январь
-job *  работа
-join *  соединять
-joke *  шутка
-judge *  судить
-judgment *  суждение
-juice *  сок
-July *  июль
-jump *  прыгать
-June *  июнь
-just *  точно
-justice *  справедливость
-keep *  держать
-key *  ключ
-kick *  пинать
-kid *  ребенок
-kill *  убивать
-kilogram *  килограмм
-kilometer *  километр
-kind *  добрый
-king *  король
-kiss *  поцелуй
-kitchen *  кухня
-knee *  колено
-knife *  нож
-knock *  стучать(ся)
-knot *  узел
-know *  знать
-knowledge *  знание
-lack *  нехватка
-lady *  леди
-lake *  озеро
-lamp *  лампа
-land *  земля
-language *  язык
-large *  большой
-last *  последний
-late *  поздний
-laugh *  смеяться
-law *  закон
-lawyer *  адвокат
-layer *  слой
-lazy *  ленивый
-lead *  вести
-leader *  лидер
-leaf *  лист
-learn *  учиться
-least *  менее всего
-leather *  кожа
-leave *  покидать
-left *  левый
-leg *  нога
-legal *  легальный
-lend *  давать взаймы
-length *  длина
-less *  меньше
-lesson *  урок
-let *  позволять
-letter *  письмо
-level *  уровень
-library *  библиотека
-lid *  крышка
-lie *  лежать
-life *  жизнь
-lift *  поднимать(ся)
-light *  светить
-like *  любить
-likely *  вероятно
-limit *  ограничивать
-line *  линия
-lip *  губа
-liquid *  жидкость
-list *  список
-listen *  слушать
-liter *  литр
-literature *  литература
-little *  маленький
-live *  жить
-load *  загружать
-loaf *  буханка
-local *  местный
-lock *  запирать
-lonely *  одинокий
-long *  длинный
-look *  смотреть
-lose *  терять
-loss *  потеря
-lot *  много
-loud *  громкий
-love *  любовь
-low *  низкий
-loyal *  лояльный
-luck *  удача
-lucky *  удачливый
-lung *  легкое
-machine *  машина
-magazine *  журнал
-magic *  магия
-mail *  почта
-main *  главный
-major *  основной
-make *  делать
-male *  мужчина
-man *  мужчина
-manage *  управлять
-manager *  менеджер
-many *  многие
-map *  карта
-March *  март
-mark *  знак
-market *  рынок
-marriage *  брак
-married *  женатый
-marry *  жениться
-mass *  масса
-match *  соответствовать
-material *  материал
-mathematics *  математика
-matter *  вещество
-may *  быть вероятным
-May *  май
-maybe *  может быть
-meal *  принятие пищи
-mean *  иметь в виду
-meaning *  смысл
-means *  средство
-measure *  измерять
-meat *  мясо
-media *  СМИ
-medical *  медицинский
-medicine *  медицина
-meet *  встречать
-meeting *  собрание
-melt *  плавить(ся)
-member *  участник
-memory *  память
-mental *  психический
-mention *  упоминать
-mess *  беспорядок
-message *  сообщение
-metal *  металл
-meter *  метр
-method *  прием
-middle *  середина
-might *  мощь
-mile *  миля
-military *  военный
-milk *  молоко
-million *  миллион
-mind *  разум
-mine *  шахта
-mineral *  минерал
-minister *  министр
-minute *  минута
-mirror *  зеркало
-miss *  скучать
-mistake *  ошибка
-mix *  смешивать(ся)
-mixture *  смесь
-model *  модель
-modern *  современный
-moment *  момент
-Monday *  понедельник
-money *  деньги
-monkey *  обезьяна
-month *  месяц
-mood *  настроение
-moon *  луна
-moral *  моральный
-more *  еще
-morning *  утро
-most *  наиболее
-mother *  мать
-motor *  мотор
-mountain *  гора
-mouse *  мышь
-mouth *  рот
-move *  передвигать
-movement *  движение
-movie *  кино
-much *  весьма
-mud *  грязь
-multiply *  умножать(ся)
-murder *  убийство
-muscle *  мышца
-music *  музыка
-musician *  музыкант
-must *  должен
-myself *  сам
-mysterious *  таинственный
-mystery *  тайна
-nail *  гвоздь
-name *  имя
-narrow *  узкий
-nation *  народ
-national *  национальный
-natural *  естественный
-nature *  природа
-navy *  военно-морской флот
-near *  возле
-nearly *  близко
-neat *  опрятный
-necessary *  необходимый
-neck *  шея
-need *  нуждаться
-needle *  игла
-negative *  отрицательный
-neither *  ни один
-nerve *  нерв
-nervous *  нервный
-nest *  гнездо
-net *  сеть
-network *  сеть
-never *  никогда
-new *  новый
-news *  новости
-newspaper *  газета
-next *  следующий
-nice *  хороший
-night *  ночь
-nine *  девять
-nineteen *  девятнадцать
-ninety *  девяносто
-no *  нет
-nobody *  никто
-noise *  шум
-none *  никто
-nonsense *  ерунда
-nor *  ни
-normal *  нормальный
-north *  север
-northern *  северный
-nose *  нос
-not *  не
-note *  заметка
-nothing *  ничто
-notice *  замечать
-noun *  существительное
-November *  ноябрь
-now *  сейчас
-nowhere *  нигде
-number *  число
-nurse *  медсестра
-nut *  орех
-obey *  повиноваться
-object *  объект
-obtain *  получать
-occasion *  случай
-ocean *  океан
-October *  октябрь
-odd *  странный
-of *  указывает на отношение принадлежности
-off *  указывает на дистанцию
-offend *  оскорблять
-offense *  правонарушение
-offensive *  оскорбительный
-offer *  предлагать
-office *  офис
-officer *  офицер
-official *  официальный
-often *  часто
-oil *  масло
-OK *  хорошо
-old *  старый
-on *  на
-once *  раз
-one *  один
-onion *  лук
-only *  единственный
-onto *  на
-open *  открытый
-operate *  работать
-operation *  операция
-opinion *  мнение
-opponent *  оппонент
-opportunity *  возможность
-oppose *  выступать против
-opposite *  противоположный
-opposition *  оппозиция
-option *  вариант
-or *  или
-orange *  апельсин
-order *  порядок
-ordinary *  обычный
-organ *  орган
-organization *  организация
-organize *  организовывать
-origin *  начало
-original *  оригинальный
-other *  другой
-ought *  (+ to) должен
-ourselves *  себя
-out *  вне
-outdoor *  наружный
-outer *  внешний
-outside *  вне
-over *  через
-owe *  задолжать
-own *  свой
-owner *  владелец
-pack *  упаковывать
-package *  пакет
-page *  страница
-pain *  боль
-painful *  болезненный
-paint *  краска
-painting *  картина
-pair *  пара
-pale *  бледный
-pan *  кастрюля
-pants *  брюки
-paper *  бумага
-parallel *  параллельный
-parent *  родитель
-park *  парк
-part *  часть
-particular *  конкретный
-partly *  частично
-partner *  партнер
-party *  партия
-pass *  проходить
-passage *  проход
-passenger *  пассажир
-past *  прошлое
-path *  путь
-patience *  терпение
-patient *  терпеливый
-pattern *  образец
-pause *  пауза
-pay *  платить
-payment *  оплата
-peace *  мир
-peaceful *  мирный
-pen *  ручка
-pencil *  карандаш
-people *  люди
-pepper *  перец
-per *  из расчета на
-perfect *  идеальный
-perform *  исполнять
-performance *  исполнение
-perhaps *  может быть
-period *  период
-permanent *  постоянный
-permission *  разрешение
-person *  человек
-personal *  личный
-persuade *  убеждать
-pet *  домашнее животное
-phone *  телефон
-photograph *  фотографировать
-phrase *  фраза
-physical *  физический
-piano *  пианино
-pick *  собирать
-picture *  картинка
-piece *  часть
-pig *  свинья
-pile *  куча
-pilot *  пилот
-pin *  булавка
-pink *  розовый
-pipe *  труба
-pity *  жалость
-place *  место
-plain *  равнина
-plan *  план
-plane *  самолет
-plant *  растение
-plastic *  пластик
-plate *  тарелка
-play *  играть
-player *  игрок
-pleasant *  приятный
-please *  пожалуйста
-pleasure *  удовольствие
-plenty *  достаточно
-plural *  множественный
-pocket *  карман
-poem *  стихотворение
-poetry *  поэзия
-point *  точка
-poison *  яд
-poisonous *  ядовитый
-pole *  столб
-police *  полиция
-polish *  полировать
-polite *  вежливый
-political *  политический
-politician *  политик
-politics *  политика
-pool *  бассейн
-poor *  бедный
-popular *  популярный
-population *  население
-port *  порт
-position *  положение
-positive *  позитивный
-possess *  владеть
-possession *  владение
-possibility *  возможность
-possible *  возможный
-possibly *  возможно
-post *  почта
-pot *  горшок
-potato *  картофель
-pound *  фунт (4536 г)
-pour *  лить(ся)
-powder *  порошок
-power *  сила
-powerful *  мощный
-practical *  практичный
-practice *  практика
-praise *  похвала
-pray *  молить(ся)
-prayer *  молитва
-prefer *  предпочитать
-preparation *  подготовка
-prepare *  готовить
-present *  настоящее время
-preserve *  сохранять
-president *  президент
-press *  нажимать
-pressure *  давление
-pretend *  притворяться
-pretty *  симпатичный
-prevent *  предотвращать
-previous *  предыдущий
-previously *  ранее
-price *  цена
-priest *  священник
-prince *  принц
-principle *  принцип
-print *  печать
-prison *  тюрьма
-prisoner *  заключенный
-private *  частный
-prize *  приз
-probably *  вероятно
-problem *  проблема
-process *  процесс
-produce *  производить
-product *  продукт
-production *  производство
-profession *  профессия
-professional *  профессиональный
-profit *  прибыль
-program *  программа
-progress *  прогресс
-promise *  обещание
-pronounce *  произносить
-pronunciation *  произношение
-proof *  доказательство
-property *  собственность
-proposal *  предложение
-protect *  защищать
-protection *  защита
-protest *  протест
-proud *  гордый
-prove *  доказывать
-provide *  снабжать
-public *  общественный
-pull *  тянуть
-pump *  насос
-punish *  наказывать
-punishment *  наказание
-pure *  чистый
-purple *  фиолетовый
-purpose *  цель
-push *  толкать
-put *  класть
-quality *  качество
-quantity *  количество
-quarrel *  ссора
-quarter *  четверть
-queen *  королева
-question *  вопрос
-quick *  быстрый
-quickly *  быстро
-quiet *  тихий
-quite *  вполне
-race *  гонка
-radio *  радио
-railroad *  железная дорога
-rain *  дождь
-raise *  повышать
-range *  диапазон
-rank *  ранг
-rapid *  быстрый
-rare *  редкий
-rate *  показатель чего-л.
-rather *  скорее
-raw *  сырой
-reach *  достигать
-react *  реагировать
-reaction *  реакция
-read *  читать
-ready *  готовый
-real *  реальный
-realize *  реализовать
-really *  действительно
-reason *  причина
-reasonable *  разумный
-receive *  получать
-recent *  недавний
-recently *  недавно
-recognize *  распознавать
-recommend *  рекомендовать
-record *  запись
-red *  красный
-reduce *  уменьшить
-reduction *  сокращение
-reflect *  отражать
-refusal *  отказ
-refuse *  отказывать(ся)
-regard *  уважение
-region *  регион
-regular *  регулярный
-relate *  соотносить(ся)
-related *  связанные
-relation *  связь
-relationship *  взаимоотношение
-relative *  родственник
-relax *  расслаблять(ся)
-religion *  религия
-religious *  религиозный
-remain *  оставаться в каком-л. состоянии
-remark *  замечание
-remember *  помнить
-remind *  напоминать
-remove *  удалять
-rent *  аренда
-repair *  ремонтировать
-repeat *  повторять
-replace *  заменять
-reply *  ответ
-report *  доклад
-represent *  представлять
-representative *  представитель
-request *  просьба
-require *  требовать
-research *  исследование
-respect *  уважение
-response *  ответ
-responsible *  ответственный
-rest *  отдых
-restaurant *  ресторан
-restrict *  ограничивать
-result *  результат
-return *  возвращать
-reward *  награда
-rice *  рис
-rich *  богатый
-rid *  (+ of) освобождать
-ride *  ездить
-right *  правый
-ring *  кольцо
-rise *  подниматься
-risk *  риск
-river *  река
-road *  дорога
-rob *  грабить
-rock *  камень
-role *  роль
-roll *  катить(ся)
-romantic *  романтический
-roof *  крыша
-room *  комната
-root *  корень
-rope *  веревка
-rough *  грубый
-round *  круглый
-row *  ряд
-royal *  королевский
-rub *  тереть(ся)
-rubber *  резина
-rude *  грубый
-ruin *  разрушать
-rule *  правило
-ruler *  правитель
-run *  бежать
-rush *  торопить(ся)
-sad *  грустный
-safe *  безопасный
-safety *  безопасность
-sail *  плавать (под парусом)
-salary *  зарплата
-sale *  продажа
-salt *  соль
-same *  тот (же) самый
-sand *  песок
-satisfaction *  удовлетворение
-satisfy *  удовлетворять
-Saturday *  суббота
-save *  сохранять
-say *  говорить
-scale *  шкала
-scatter *  рассеивать(ся)
-scene *  сцена
-school *  школа
-science *  наука
-scientific *  научный
-scientist *  ученый
-scissors *  ножницы
-screen *  экран
-screw *  винт
-sea *  море
-search *  поиск
-season *  сезон
-seat *  сиденье
-second *  секунда
-secret *  секрет
-secretary *  секретарь
-security *  безопасность
-see *  видеть
-seed *  семя
-seek *  искать
-seem *  казаться
-sell *  продавать
-send *  посылать
-sense *  чувство
-sensible *  разумный
-sensitive *  чувствительный
-sentence *  предложение
-separate *  отдельный
-September *  сентябрь
-series *  ряд
-serious *  серьезный
-seriously *  серьезно
-servant *  слуга
-serve *  служить
-service *  обслуживание
-set *  ставить
-settle *  урегулировать
-seven *  семь
-seventeen *  семнадцать
-seventy *  семьдесят
-several *  несколько
-severe *  суровый
-sew *  шить
-sex *  секс
-sexual *  сексуальный
-shade *  тень
-shadow *  тень
-shake *  трясти
-shall *  образует будущее время
-shame *  позор
-shape *  форма
-share *  делить
-sharp *  острый
-she *  она
-sheep *  овца
-sheet *  лист
-shelf *  полка
-shell *  раковина
-shelter *  приют
-shine *  светить(ся)
-shiny *  солнечный
-ship *  корабль
-shirt *  рубашка
-shock *  удар
-shoe *  ботинок
-shoot *  стрелять
-shop *  магазин
-short *  короткий
-shot *  выстрел
-should *  должен
-shoulder *  плечо
-shout *  кричать
-show *  показывать
-shut *  закрывать(ся)
-shy *  стеснительный
-sick *  больной
-side *  сторона
-sight *  зрение
-sign *  знак
-signal *  сигнал
-significant *  значительный
-silence *  тишина
-silent *  тихий
-silk *  шелк
-silly *  глупый
-silver *  серебро
-similar *  похожий
-simple *  простой
-since *  с
-sincere *  искренний
-sing *  петь
-single *  один
-singular *  единственный
-sink *  тонуть
-sister *  сестра
-sit *  сидеть
-situation *  ситуация
-six *  шесть
-sixteen *  шестнадцать
-sixty *  шестьдесят
-size *  размер
-skill *  умение
-skillful *  искусный
-skin *  кожа
-skirt *  юбка
-sky *  небо
-sleep *  спать
-slide *  скользить
-slight *  незначительный
-slip *  скользить
-slope *  склон
-slow *  медленный
-small *  маленький
-smart *  умный
-smell *  запах
-smile *  улыбаться
-smoke *  дым
-smooth *  гладкий
-snake *  змея
-snow *  снег
-so *  так
-soap *  мыло
-social *  общественный
-society *  общество
-sock *  носок
-soft *  мягкий
-soil *  почва
-soldier *  солдат
-solid *  твердый
-solution *  решение
-solve *  решать
-some *  некоторое количество
-somebody *  кто-то
-somehow *  как-то
-someone *  кто-то
-something *  кое-что
-sometimes *  иногда
-somewhere *  где-то
-son *  сын
-song *  песня
-soon *  скоро
-sore *  больной
-sorry *  извините
-sort *  тип
-soul *  душа
-sound *  звучать
-soup *  суп
-sour *  кислый
-source *  источник
-south *  юг
-southern *  южный
-space *  пространство
-speak *  говорить
-special *  специальный
-specific *  конкретный
-speech *  речь
-speed *  скорость
-spell *  произносить по буквам
-spend *  тратить
-spin *  крутить(ся)
-spirit *  дух
-split *  расщеплять(ся)
-spoil *  портить(ся)
-spoon *  ложка
-sport *  спорт
-spot *  пятно
-spread *  распространять(ся)
-spring *  весна
-square *  квадрат
-stage *  этап
-stair *  ступенька
-stamp *  штамп
-stand *  стоять
-standard *  стандартный
-star *  звезда
-start *  начало
-state *  состояние
-statement *  заявление
-station *  станция
-stay *  останавливаться
-steady *  устойчивый
-steal *  воровать
-steam *  пар
-steel *  сталь
-steep *  крутой
-step *  шаг
-stick *  приклеивать(ся)
-stiff *  жесткий
-still *  по-прежнему
-sting *  жалить
-stomach *  живот
-stone *  камень
-stop *  остановка
-store *  хранить
-storm *  буря
-story *  рассказ
-straight *  прямой
-strange *  странный
-stranger *  незнакомец
-strategy *  стратегия
-stream *  поток
-street *  улица
-strength *  сила
-stretch *  тянуть(ся)
-strict *  строгий
-strike *  ударять
-string *  струна
-strong *  сильный
-structure *  структура
-struggle *  делать усилия
-student *  студент
-study *  изучать
-stupid *  глупый
-style *  стиль
-subject *  тема
-substance *  вещество
-succeed *  преуспевать
-success *  успех
-successful *  успешный
-such *  такой
-suck *  сосать
-sudden *  внезапный
-suddenly *  вдруг
-suffer *  страдать
-sugar *  сахар
-suggest *  предлагать
-suit *  костюм
-suitable *  подходящий
-suitcase *  чемодан
-sum *  сумма
-summer *  лето
-sun *  солнце
-Sunday *  воскресенье
-supply *  поставка
-support *  поддержка
-suppose *  полагать
-sure *  конечно
-surface *  поверхность
-surprise *  сюрприз
-surround *  окружать
-swallow *  глотать
-swear *  клясться
-sweep *  мести
-sweet *  сладкий
-swell *  распухать
-swim *  плавать
-swing *  качать(ся)
-sympathetic *  сочувствующий
-sympathy *  симпатия
-system *  система
-table *  стол
-tail *  хвост
-take *  брать
-talk *  говорить
-tall *  высокий
-task *  задача
-taste *  вкус
-tax *  налог
-taxi *  такси
-tea *  чай
-teach *  учить
-teacher *  учитель
-team *  команда
-tear *  рвать(ся)
-technical *  технический
-telephone *  телефон
-television *  телевидение
-tell *  говорить
-temperature *  температура
-temporary *  временный
-ten *  десять
-tend *  иметь тенденцию
-tendency *  тенденция
-tennis *  теннис
-tense *  напряженный
-tent *  палатка
-term *  срок
-terrible *  ужасный
-test *  тест
-than *  чем
-thank *  благодарить
-thanks *  спасибо
-that *  тот
-the *  определенный артикль
-theater *  театр
-themselves *  сами
-then *  тогда
-there *  там
-therefore *  поэтому
-they *  они
-thick *  толстый
-thief *  вор
-thin *  тонкий
-thing *  вещь
-think *  думать
-third *  третий
-thirteen *  тринадцать
-thirty *  тридцать
-this *  этот
-thorough *  тщательный
-though *  хотя
-thought *  мысль
-thousand *  тысяча
-thread *  нить
-threat *  угроза
-threaten *  угрожать
-three *  три
-throat *  горло
-through *  через
-throw *  бросать
-thumb *  большой палец руки
-Thursday *  четверг
-thus *  таким образом
-ticket *  билет
-tie *  завязывать
-tight *  тугой
-time *  время
-tire *  шина
-tired *  уставший
-tiring *  утомительный
-title *  название
-to *  пространственные значения
-tobacco *  табак
-today *  сегодня
-toe *  палец ноги
-together *  вместе
-toilet *  туалет
-tomorrow *  завтра
-tongue *  язык
-tonight *  сегодня вечером
-too *  слишком
-tool *  инструмент
-tooth *  зуб
-top *  верхний
-total *  весь
-touch *  прикасаться
-tourist *  турист
-toward *  к
-tower *  башня
-town *  город
-toy *  игрушка
-track *  следить
-trade *  торговля
-tradition *  традиция
-traditional *  традиционный
-traffic *  трафик
-train *  поезд
-training *  подготовка
-translate *  переводить
-trap *  ловушка
-travel *  путешествовать
-treat *  относиться
-treatment *  лечение
-tree *  дерево
-trial *  суд
-trick *  трюк
-trip *  поездка
-tropical *  тропический
-trouble *  беспокойство
-truck *  грузовик
-true *  истинный
-trust *  вера
-truth *  правда
-try *  пытаться
-tube *  труба
-Tuesday *  вторник
-tune *  мелодия
-turn *  поворачивать
-TV *  телевидение
-twelve *  двенадцать
-twenty *  двадцать
-twice *  дважды
-twist *  крутить
-two *  два
-type *  тип
-typical *  типичный
-ugly *  уродливый
-uncle *  дядя
-under *  под
-understand *  понимать
-undo *  расстегивать
-uniform *  униформа
-union *  союз
-unit *  часть
-unite *  объединять(ся)
-universe *  вселенная
-university *  университет
-unless *  если не
-until *  до
-up *  вверх
-upon *  на
-upper *  верхний
-upset *  огорчать
-upstairs *  наверху
-urgent *  срочный
-use *  использовать
-useful *  полезный
-useless *  бесполезный
-usual *  обычный
-usually *  обычно
-vacation *  отпуск
-valley *  долина
-valuable *  ценный
-value *  ценность
-variety *  разнообразие
-various *  различный
-vegetable *  овощ
-vehicle *  автомобиль
-verb *  глагол
-very *  очень
-victim *  жертва
-victory *  победа
-view *  вид
-village *  деревня
-violence *  насилие
-violent *  жестокий
-visit *  посещать
-voice *  голос
-vote *  голосовать
-vowel *  гласный звук
-waist *  талия
-wait *  ждать
-wake *  проснуться
-walk *  идти
-wall *  стена
-want *  хотеть
-war *  война
-warm *  теплый
-warmth *  тепло
-warn *  предупреждать
-warning *  предупреждение
-wash *  мыть(ся)
-waste *  растрачивать
-watch *  смотреть
-water *  вода
-wave *  волна
-way *  путь
-we *  мы
-weak *  слабый
-wealth *  богатство
-weapon *  оружие
-wear *  носить
-weather *  погода
-web *  сеть
-wedding *  свадьба
-Wednesday *  среда
-week *  неделя
-weigh *  весить
-weight *  вес
-welcome *  добро пожаловать
-well *  хорошо
-west *  запад
-western *  западный
-wet *  мокрый
-what *  что
-whatever *  что бы ни
-wheel *  колесо
-when *  когда
-whenever *  когда бы ни
-where *  где
-whether *  ли
-which *  который
-while *  пока
-whisper *  шептать(ся)
-white *  белый
-who *  кто
-whole *  целый
-whom *  кого
-whose *  чей
-why *  почему
-wide *  широкий
-width *  ширина
-wife *  жена
-wild *  дикий
-will *  образует будущее время
-willing *  готовый (сделать что-л.)
-win *  победить
-wind *  ветер
-window *  окно
-wine *  вино
-wing *  крыло
-winter *  зима
-wire *  провод
-wise *  мудрый
-wish *  желать
-with *  с
-within *  внутри
-without *  без
-woman *  женщина
-wonder *  удивляться
-wood *  дерево
-wooden *  деревянный
-wool *  шерсть
-word *  слово
-work *  работа
-worker *  рабочий
-world *  мир
-worry *  беспокоиться
-worse *  хуже
-worst *  наихудший
-worth *  стоящий
-would *  выражает условное наклонение
-wound *  рана
-wrap *  заворачивать
-wrist *  запястье
-write *  писать
-writer *  писатель
-wrong *  неправильный
-yard *  ярд (9144 см)
-year *  год
-yellow *  желтый
-yes *  да
-yesterday *  вчера
-yet *  еще
-you *  ты
-young *  юный
-yourself *  себя
-zero *  ноль
-
+ a *  РЅРµРѕРїСЂРµРґРµР»РµРЅРЅС‹Р№ Р°СЂС‚РёРєР»СЊ
+ ability *  СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ
+ able *  СЃРїРѕСЃРѕР±РЅС‹Р№
+ about *  РЅР°СЃС‡РµС‚
+ above *  РІРІРµСЂС…Сѓ
+ abroad *  Р·Р° РіСЂР°РЅРёС†РµР№
+ absence *  РѕС‚СЃСѓС‚СЃС‚РІРёРµ
+ absent *  РѕС‚СЃСѓС‚СЃС‚РІСѓСЋС‰РёР№
+ absolutely *  Р°Р±СЃРѕР»СЋС‚РЅРѕ
+ accept *  РїСЂРёРЅРёРјР°С‚СЊ
+ accident *  Р°РІР°СЂРёСЏ
+ according *  (to) СЃРѕРіР»Р°СЃРЅРѕ
+ account *  СЃС‡РµС‚
+ achieve *  РґРѕСЃС‚РёРіР°С‚СЊ
+ acid *  РєРёСЃР»РѕС‚Р°
+ across *  РїРѕРїРµСЂРµРє
+ act *  РґРµР№СЃС‚РІРѕРІР°С‚СЊ
+ action *  РґРµР№СЃС‚РІРёРµ
+ active *  Р°РєС‚РёРІРЅС‹Р№
+ activity *  РґРµСЏС‚РµР»СЊРЅРѕСЃС‚СЊ
+ actor *  Р°РєС‚РµСЂ
+ actual *  С„Р°РєС‚РёС‡РµСЃРєРёР№
+ actually *  РЅР° СЃР°РјРѕРј РґРµР»Рµ
+ add *  РїСЂРёР±Р°РІР»СЏС‚СЊ
+ addition *  РґРѕРїРѕР»РЅРµРЅРёРµ
+ address *  Р°РґСЂРµСЃ
+ adjective *  РїСЂРёР»Р°РіР°С‚РµР»СЊРЅРѕРµ
+ admire *  РІРѕСЃС…РёС‰Р°С‚СЊСЃСЏ
+ admit *  РґРѕРїСѓСЃРєР°С‚СЊ
+ adult *  РІР·СЂРѕСЃР»С‹Р№
+ advanced *  РїРµСЂРµРґРѕРІРѕР№
+ advantage *  РїСЂРµРёРјСѓС‰РµСЃС‚РІРѕ
+ adventure *  РїСЂРёРєР»СЋС‡РµРЅРёРµ
+ adverb *  РЅР°СЂРµС‡РёРµ
+ advertisement *  СЂРµРєР»Р°РјР°
+ advice *  СЃРѕРІРµС‚
+ advise *  СЃРѕРІРµС‚РѕРІР°С‚СЊ
+ affair *  РґРµР»Рѕ
+ affect *  РІР»РёСЏС‚СЊ
+ afford *  РїРѕР·РІРѕР»РёС‚СЊ СЃРµР±Рµ
+ afraid *  Р±РѕСЏС‰РёР№СЃСЏ
+ after *  РїРѕСЃР»Рµ
+ afternoon *  РїРѕСЃР»Рµ РїРѕР»СѓРґРЅСЏ
+ again *  РѕРїСЏС‚СЊ
+ against *  РїСЂРѕС‚РёРІ
+ age *  РІРѕР·СЂР°СЃС‚
+ agency *  Р°РіРµРЅС‚СЃС‚РІРѕ
+ ago *  С‚РѕРјСѓ РЅР°Р·Р°Рґ
+ agree *  СЃРѕРіР»Р°С€Р°С‚СЊСЃСЏ
+ agreement *  СЃРѕРіР»Р°С€РµРЅРёРµ
+ ahead *  РІРїРµСЂРµРґРё
+ aim *  С†РµР»СЊ
+ air *  РІРѕР·РґСѓС…
+ airplane *  СЃР°РјРѕР»РµС‚
+ airport *  Р°СЌСЂРѕРїРѕСЂС‚
+ alcohol *  Р°Р»РєРѕРіРѕР»СЊ
+ alive *  Р¶РёРІРѕР№
+ all *  РІСЃРµ
+ allow *  РїРѕР·РІРѕР»СЏС‚СЊ
+ almost *  РїРѕС‡С‚Рё
+ alone *  РѕРґРёРЅРѕРєРёР№
+ along *  РІРґРѕР»СЊ
+ alphabet *  Р°Р»С„Р°РІРёС‚
+ already *  СѓР¶Рµ
+ also *  С‚Р°РєР¶Рµ
+ although *  С…РѕС‚СЏ
+ always *  РІСЃРµРіРґР°
+ among *  РјРµР¶РґСѓ
+ amount *  РєРѕР»РёС‡РµСЃС‚РІРѕ
+ amuse *  СЂР°Р·РІР»РµРєР°С‚СЊ
+ amusing *  Р·Р°Р±Р°РІРЅС‹Р№
+ ancient *  Р°РЅС‚РёС‡РЅС‹Р№
+ and *  Рё
+ anger *  РіРЅРµРІ
+ angle *  СѓРіРѕР»
+ angry *  СЃРµСЂРґРёС‚С‹Р№
+ animal *  Р¶РёРІРѕС‚РЅРѕРµ
+ announce *  РѕР±СЉСЏРІР»СЏС‚СЊ
+ annoy *  СЂР°Р·РґСЂР°Р¶Р°С‚СЊ
+ another *  РґСЂСѓРіРѕР№
+ answer *  РѕС‚РІРµС‚
+ anxiety *  С‚СЂРµРІРѕРіР°
+ anxious *  С‚СЂРµРІРѕР¶РЅС‹Р№
+ any *  СЃРєРѕР»СЊРєРѕ-РЅРёР±СѓРґСЊ
+ anybody *  Р»СЋР±РѕР№
+ anymore *  Р±РѕР»СЊС€Рµ РЅРµ
+ anyone *  Р»СЋР±РѕР№
+ anything *  С‡С‚Рѕ-РЅРёР±СѓРґСЊ
+ anywhere *  РіРґРµ СѓРіРѕРґРЅРѕ
+ apart *  РѕС‚РґРµР»СЊРЅРѕ
+ apartment *  РєРІР°СЂС‚РёСЂР°
+ appear *  РїРѕРєР°Р·С‹РІР°С‚СЊСЃСЏ
+ appearance *  РІРЅРµС€РЅРёР№ РІРёРґ
+ apple *  СЏР±Р»РѕРєРѕ
+ appropriate *  РїРѕРґС…РѕРґСЏС‰РёР№
+ approval *  РѕРґРѕР±СЂРµРЅРёРµ
+ approve *  РѕРґРѕР±СЂСЏС‚СЊ
+ April *  Р°РїСЂРµР»СЊ
+ area *  РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРѕ
+ argue *  СЃРїРѕСЂРёС‚СЊ
+ argument *  Р°СЂРіСѓРјРµРЅС‚
+ arm *  СЂСѓРєР°
+ army *  Р°СЂРјРёСЏ
+ around *  РІРѕРєСЂСѓРі
+ arrange *  РѕСЂРіР°РЅРёР·РѕРІС‹РІР°С‚СЊ
+ arrangement *  СЃРѕРіР»Р°С€РµРЅРёРµ
+ arrival *  РїСЂРёР±С‹С‚РёРµ
+ arrive *  РїСЂРёР±С‹РІР°С‚СЊ
+ art *  РёСЃРєСѓСЃСЃС‚РІРѕ
+ article *  СЃС‚Р°С‚СЊСЏ
+ artificial *  РёСЃРєСѓСЃСЃС‚РІРµРЅРЅС‹Р№
+ artist *  С…СѓРґРѕР¶РЅРёРє
+ as *  РєР°Рє
+ ashamed *  РїСЂРёСЃС‚С‹Р¶РµРЅРЅС‹Р№
+ ask *  СЃРїСЂР°С€РёРІР°С‚СЊ
+ asleep *  СЃРїСЏС‰РёР№
+ association *  Р°СЃСЃРѕС†РёР°С†РёСЏ
+ at *  Сѓ
+ atom *  Р°С‚РѕРј
+ attach *  РїСЂРёРєСЂРµРїР»СЏС‚СЊ(СЃСЏ)
+ attack *  Р°С‚Р°РєРѕРІР°С‚СЊ
+ attempt *  РїРѕРїС‹С‚РєР°
+ attend *  РїРѕСЃРµС‰Р°С‚СЊ
+ attention *  РІРЅРёРјР°РЅРёРµ
+ attitude *  РѕС‚РЅРѕС€РµРЅРёРµ
+ attract *  РїСЂРёРІР»РµРєР°С‚СЊ
+ attractive *  РїСЂРёРІР»РµРєР°С‚РµР»СЊРЅС‹Р№
+ August *  Р°РІРіСѓСЃС‚
+ aunt *  С‚РµС‚СЏ
+ author *  Р°РІС‚РѕСЂ
+ authority *  РІР»Р°СЃС‚СЊ
+ autumn *  РѕСЃРµРЅСЊ
+ available *  РґРѕСЃС‚СѓРїРЅС‹Р№
+ average *  СЃСЂРµРґРЅРёР№
+ avoid *  РёР·Р±РµРіР°С‚СЊ
+ awake *  РїСЂРѕСЃС‹РїР°С‚СЊСЃСЏ
+ away *  РґР°Р»РµРєРѕ
+ awkward *  РЅРµР»РѕРІРєРёР№
+ baby *  СЂРµР±РµРЅРѕРє
+ back *  РЅР°Р·Р°Рґ
+ background *  С„РѕРЅ
+ bad *  РїР»РѕС…РѕР№
+ badly *  СЃРєРІРµСЂРЅРѕ
+ bag *  СЃСѓРјРєР°
+ bake *  РїРµС‡СЊ(СЃСЏ)
+ balance *  Р±Р°Р»Р°РЅСЃ
+ ball *  РјСЏС‡
+ band *  Р±Р°РЅРґР°
+ bank *  Р±Р°РЅРє
+ bar *  Р±Р°СЂ
+ base *  РѕСЃРЅРѕРІР°
+ basic *  Р±Р°Р·РѕРІС‹Р№
+ basket *  РєРѕСЂР·РёРЅР°
+ basketball *  Р±Р°СЃРєРµС‚Р±РѕР»
+ bath *  РІР°РЅРЅР°
+ battle *  Р±РёС‚РІР°
+ be *  Р±С‹С‚СЊ
+ beach *  РїР»СЏР¶
+ beak *  РєР»СЋРІ
+ beam *  Р»СѓС‡
+ bean *  Р±РѕР±
+ bear *  РЅРѕСЃРёС‚СЊ
+ beard *  Р±РѕСЂРѕРґР°
+ beat *  Р±РёС‚СЊ
+ beautiful *  РєСЂР°СЃРёРІС‹Р№
+ beauty *  РєСЂР°СЃРѕС‚Р°
+ because *  РїРѕС‚РѕРјСѓ С‡С‚Рѕ
+ become *  СЃС‚Р°РЅРѕРІРёС‚СЊСЃСЏ
+ bed *  РєСЂРѕРІР°С‚СЊ
+ beer *  РїРёРІРѕ
+ before *  РґРѕ
+ begin *  РЅР°С‡РёРЅР°С‚СЊ
+ beginning *  РЅР°С‡Р°Р»Рѕ
+ behave *  РІРµСЃС‚Рё СЃРµР±СЏ
+ behavior *  РїРѕРІРµРґРµРЅРёРµ
+ behind *  СЃР·Р°РґРё
+ belief *  РІРµСЂР°
+ believe *  РІРµСЂРёС‚СЊ
+ bell *  РєРѕР»РѕРєРѕР»
+ belong *  РїСЂРёРЅР°РґР»РµР¶Р°С‚СЊ
+ below *  РЅРёР¶Рµ
+ belt *  СЂРµРјРµРЅСЊ
+ bend *  СЃРіРёР±Р°С‚СЊ(СЃСЏ)
+ beneath *  РїРѕРґ
+ benefit *  РїРѕР»СЊР·Р°
+ beside *  СЂСЏРґРѕРј СЃ
+ best *  СЃР°РјРѕРµ Р»СѓС‡С€РµРµ
+ better *  Р»СѓС‡С€РёР№
+ between *  РјРµР¶РґСѓ
+ beyond *  Р·Р°
+ bicycle *  РІРµР»РѕСЃРёРїРµРґ
+ big *  Р±РѕР»СЊС€РѕР№
+ bird *  РїС‚РёС†Р°
+ birth *  СЂРѕР¶РґРµРЅРёРµ
+ bite *  РєСѓСЃР°С‚СЊ(СЃСЏ)
+ black *  С‡РµСЂРЅС‹Р№
+ blade *  Р»РµР·РІРёРµ
+ blame *  РѕР±РІРёРЅСЏС‚СЊ
+ blind *  СЃР»РµРїРѕР№
+ block *  Р±Р»РѕРєРёСЂРѕРІР°С‚СЊ
+ blood *  РєСЂРѕРІСЊ
+ blow *  РґСѓС‚СЊ
+ blue *  СЃРёРЅРёР№
+ board *  РґРѕСЃРєР°
+ boat *  Р»РѕРґРєР°
+ body *  С‚РµР»Рѕ
+ boil *  РєРёРїСЏС‚РёС‚СЊ(СЃСЏ)
+ bomb *  Р±РѕРјР±Р°
+ bone *  РєРѕСЃС‚СЊ
+ book *  РєРЅРёРіР°
+ boot *  Р±РѕС‚РёРЅРѕРє
+ border *  РіСЂР°РЅРёС†Р°
+ boring *  СЃРєСѓС‡РЅС‹Р№
+ borrow *  Р±СЂР°С‚СЊ РІ РґРѕР»Рі
+ both *  РѕР±Р°
+ bottle *  Р±СѓС‚С‹Р»РєР°
+ bottom *  РЅРёР·
+ bowl *  РєСѓР±РѕРє
+ box *  РєРѕСЂРѕР±РєР°
+ boy *  РјР°Р»СЊС‡РёРє
+ brain *  РјРѕР·Рі
+ branch *  РІРµС‚РІСЊ
+ brave *  С…СЂР°Р±СЂС‹Р№
+ bread *  С…Р»РµР±
+ break *  Р»РѕРјР°С‚СЊ
+ breakfast *  Р·Р°РІС‚СЂР°Рє
+ breast *  РіСЂСѓРґСЊ
+ breath *  РґС‹С…Р°РЅРёРµ
+ breathe *  РґС‹С€Р°С‚СЊ
+ brick *  РєРёСЂРїРёС‡
+ bridge *  РјРѕСЃС‚
+ bright *  СЏСЂРєРёР№
+ bring *  РїСЂРёРЅРѕСЃРёС‚СЊ
+ broad *  С€РёСЂРѕРєРёР№
+ broadcast *  С‚СЂР°РЅСЃР»СЏС†РёСЏ (СЂР°РґРёРѕ
+ brother *  Р±СЂР°С‚
+ brown *  РєРѕСЂРёС‡РЅРµРІС‹Р№
+ brush *  С‰РµС‚РєР°
+ bucket *  РІРµРґСЂРѕ
+ build *  СЃС‚СЂРѕРёС‚СЊ
+ building *  Р·РґР°РЅРёРµ
+ bullet *  РїСѓР»СЏ
+ bunch *  СЃРІСЏР·РєР°
+ burn *  РіРѕСЂРµС‚СЊ
+ burst *  РІР·СЂС‹РІ
+ bury *  С…РѕСЂРѕРЅРёС‚СЊ
+ bus *  Р°РІС‚РѕР±СѓСЃ
+ bush *  РєСѓСЃС‚
+ business *  РґРµР»Рѕ
+ busy *  Р·Р°РЅСЏС‚РѕР№
+ but *  РЅРѕ
+ butter *  РјР°СЃР»Рѕ
+ button *  РєРЅРѕРїРєР°
+ buy *  РїРѕРєСѓРїР°С‚СЊ
+ by *  Сѓ
+ bye *  РїРѕРєР°
+ cake *  С‚РѕСЂС‚
+ call *  РІС‹Р·С‹РІР°С‚СЊ
+ calm *  СЃРїРѕРєРѕР№РЅС‹Р№
+ camera *  С„РѕС‚РѕР°РїРїР°СЂР°С‚
+ camp *  Р»Р°РіРµСЂСЊ
+ can *  РјРѕС‡СЊ
+ candy *  РєРѕРЅС„РµС‚Р°
+ cap *  РєРµРїРєР°
+ capital *  СЃС‚РѕР»РёС†Р°
+ car *  Р°РІС‚РѕРјРѕР±РёР»СЊ
+ card *  РєР°СЂС‚Р°
+ care *  Р·Р°Р±РѕС‚РёС‚СЊСЃСЏ
+ careful *  РѕСЃС‚РѕСЂРѕР¶РЅС‹Р№
+ carry *  РЅРµСЃС‚Рё
+ case *  СЃР»СѓС‡Р°Р№
+ castle *  Р·Р°РјРѕРє
+ cat *  РєРѕС€РєР°
+ catch *  РїРѕР№РјР°С‚СЊ
+ cause *  РїСЂРёС‡РёРЅР°
+ ceiling *  РїРѕС‚РѕР»РѕРє
+ celebrate *  РїСЂР°Р·РґРЅРѕРІР°С‚СЊ
+ cell *  РєР»РµС‚РєР°
+ cent *  С†РµРЅС‚
+ center *  С†РµРЅС‚СЂ
+ centimeter *  СЃР°РЅС‚РёРјРµС‚СЂ
+ central *  С†РµРЅС‚СЂР°Р»СЊРЅС‹Р№
+ century *  РІРµРє
+ ceremony *  С†РµСЂРµРјРѕРЅРёСЏ
+ certain *  РѕРїСЂРµРґРµР»РµРЅРЅС‹Р№
+ chair *  СЃС‚СѓР»
+ chance *  С€Р°РЅСЃ
+ change *  РјРµРЅСЏС‚СЊ
+ character *  С…Р°СЂР°РєС‚РµСЂ
+ charge *  РїР»Р°С‚Р°
+ cheap *  РґРµС€РµРІС‹Р№
+ cheat *  Р¶СѓР»СЊРЅРёС‡Р°С‚СЊ
+ check *  РїСЂРѕРІРµСЂСЏС‚СЊ
+ cheek *  С‰РµРєР°
+ cheerful *  РІРµСЃРµР»С‹Р№
+ cheese *  СЃС‹СЂ
+ chemical *  С…РёРјРёС‡РµСЃРєРёР№
+ chemistry *  С…РёРјРёСЏ
+ chest *  РіСЂСѓРґРЅР°СЏ РєР»РµС‚РєР°
+ chicken *  РєСѓСЂРёС†Р°
+ chief *  РіР»Р°РІРЅС‹Р№
+ child *  СЂРµР±РµРЅРѕРє
+ chin *  РїРѕРґР±РѕСЂРѕРґРѕРє
+ chocolate *  С€РѕРєРѕР»Р°Рґ
+ choice *  РІС‹Р±РѕСЂ
+ choose *  РІС‹Р±РёСЂР°С‚СЊ
+ church *  С†РµСЂРєРѕРІСЊ
+ cigarette *  СЃРёРіР°СЂРµС‚Р°
+ circle *  РєСЂСѓРі
+ citizen *  РіСЂР°Р¶РґР°РЅРёРЅ
+ city *  РіРѕСЂРѕРґ
+ claim *  С‚СЂРµР±РѕРІР°С‚СЊ
+ class *  РєР»Р°СЃСЃ
+ clay *  РіР»РёРЅР°
+ clean *  С‡РёСЃС‚С‹Р№
+ clear *  СЏСЃРЅС‹Р№
+ clearly *  СЏСЃРЅРѕ
+ clerk *  РєР»РµСЂРє
+ clever *  СѓРјРЅС‹Р№
+ climb *  РІР·Р±РёСЂР°С‚СЊСЃСЏ
+ clock *  С‡Р°СЃС‹
+ close *  Р·Р°РєСЂС‹РІР°С‚СЊ
+ cloth *  С‚РєР°РЅСЊ
+ clothes *  РѕРґРµР¶РґР°
+ clothing *  РѕРґРµР¶РґР°
+ cloud *  РѕР±Р»Р°РєРѕ
+ club *  РєР»СѓР±
+ coast *  РїРѕР±РµСЂРµР¶СЊРµ
+ coat *  РїР°Р»СЊС‚Рѕ
+ coffee *  РєРѕС„Рµ
+ coin *  РјРѕРЅРµС‚Р°
+ cold *  С…РѕР»РѕРґРЅС‹Р№
+ collect *  СЃРѕР±РёСЂР°С‚СЊ
+ collection *  РєРѕР»Р»РµРєС†РёСЏ
+ college *  РєРѕР»Р»РµРґР¶
+ color *  С†РІРµС‚
+ comb *  РіСЂРµР±РµРЅСЊ
+ combination *  РєРѕРјР±РёРЅР°С†РёСЏ
+ combine *  СЃРѕС‡РµС‚Р°С‚СЊ(СЃСЏ)
+ come *  РїСЂРёС…РѕРґРёС‚СЊ
+ comfort *  РєРѕРјС„РѕСЂС‚
+ comfortable *  СѓРґРѕР±РЅС‹Р№
+ command *  РєРѕРјР°РЅРґР°
+ common *  РѕР±С‰РёР№
+ communicate *  СЃРѕРѕР±С‰Р°С‚СЊ
+ communication *  РєРѕРјРјСѓРЅРёРєР°С†РёСЏ
+ company *  РєРѕРјРїР°РЅРёСЏ
+ compare *  СЃСЂР°РІРЅРёРІР°С‚СЊ
+ compete *  СЃРѕСЂРµРІРЅРѕРІР°С‚СЊСЃСЏ
+ competition *  СЃРѕСЂРµРІРЅРѕРІР°РЅРёРµ
+ complain *  (РїРѕ)Р¶Р°Р»РѕРІР°С‚СЊСЃСЏ
+ complete *  Р·Р°РІРµСЂС€Р°С‚СЊ
+ completely *  СЃРѕРІРµСЂС€РµРЅРЅРѕ
+ complicated *  СЃР»РѕР¶РЅС‹Р№
+ computer *  РєРѕРјРїСЊСЋС‚РµСЂ
+ concern *  Р±РµСЃРїРѕРєРѕР№СЃС‚РІРѕ
+ concerning *  РѕС‚РЅРѕСЃРёС‚РµР»СЊРЅРѕ
+ concert *  РєРѕРЅС†РµСЂС‚
+ condition *  СЃРѕСЃС‚РѕСЏРЅРёРµ
+ confidence *  СѓРІРµСЂРµРЅРЅРѕСЃС‚СЊ
+ confident *  СѓРІРµСЂРµРЅРЅС‹Р№
+ confuse *  РїСѓС‚Р°С‚СЊ
+ connect *  СЃРѕРµРґРёРЅСЏС‚СЊ
+ connection *  СЃРІСЏР·СЊ
+ conscience *  СЃРѕРІРµСЃС‚СЊ
+ conscious *  СЃРѕР·РЅР°С‚РµР»СЊРЅС‹Р№
+ consider *  СЂР°СЃСЃРјР°С‚СЂРёРІР°С‚СЊ
+ consist *  СЃРѕСЃС‚РѕСЏС‚СЊ (РёР·)
+ contain *  СЃРѕРґРµСЂР¶Р°С‚СЊ
+ container *  РєРѕРЅС‚РµР№РЅРµСЂ
+ continue *  РїСЂРѕРґРѕР»Р¶Р°С‚СЊ
+ continuous *  РЅРµРїСЂРµСЂС‹РІРЅС‹Р№
+ contract *  РєРѕРЅС‚СЂР°РєС‚
+ control *  РєРѕРЅС‚СЂРѕР»СЊ
+ convenient *  СѓРґРѕР±РЅС‹Р№
+ conversation *  СЂР°Р·РіРѕРІРѕСЂ
+ cook *  РіРѕС‚РѕРІРёС‚СЊ
+ cookie *  РїРµС‡РµРЅСЊРµ
+ cool *  РїСЂРѕС…Р»Р°РґРЅС‹Р№
+ copy *  РєРѕРїРёСЂРѕРІР°С‚СЊ
+ corner *  СѓРіРѕР»
+ correct *  РїСЂР°РІРёР»СЊРЅС‹Р№
+ cost *  СЃС‚РѕРёС‚СЊ
+ cough *  РєР°С€Р»СЏС‚СЊ
+ count *  СЃС‡РёС‚Р°С‚СЊ
+ country *  СЃС‚СЂР°РЅР°
+ courage *  С…СЂР°Р±СЂРѕСЃС‚СЊ
+ course *  РєСѓСЂСЃ
+ court *  СЃСѓРґ
+ cover *  РїРѕРєСЂС‹РІР°С‚СЊ
+ cow *  РєРѕСЂРѕРІР°
+ crack *  С‚СЂРµС‰РёРЅР°
+ crash *  РєСЂР°С…
+ crazy *  СЃСѓРјР°СЃС€РµРґС€РёР№
+ cream *  РєСЂРµРј
+ create *  СЃРѕР·РґР°РІР°С‚СЊ
+ creature *  СЃСѓС‰РµСЃС‚РІРѕ
+ crime *  РїСЂРµСЃС‚СѓРїР»РµРЅРёРµ
+ criminal *  РїСЂРµСЃС‚СѓРїРЅС‹Р№
+ criticize *  РєСЂРёС‚РёРєРѕРІР°С‚СЊ
+ crop *  СЃ.-С…. РєСѓР»СЊС‚СѓСЂР°
+ cross *  РїРµСЂРµСЃРµРєР°С‚СЊ(СЃСЏ)
+ crowd *  С‚РѕР»РїР°
+ cruel *  Р¶РµСЃС‚РѕРєРёР№
+ crush *  (СЂР°Р·)РґР°РІРёС‚СЊ
+ cry *  РїР»Р°РєР°С‚СЊ
+ culture *  РєСѓР»СЊС‚СѓСЂР°
+ cup *  С‡Р°С€РєР°
+ cupboard *  С€РєР°С„
+ cure *  Р»РµС‡РёС‚СЊ
+ curl *  Р»РѕРєРѕРЅ
+ current *  С‚РµРєСѓС‰РёР№
+ curtain *  Р·Р°РЅР°РІРµСЃ(РєР°)
+ curve *  РєСЂРёРІР°СЏ
+ customer *  РєР»РёРµРЅС‚
+ cut *  СЂРµР·Р°С‚СЊ
+ daily *  РµР¶РµРґРЅРµРІРЅС‹Р№
+ damage *  РїРѕРІСЂРµР¶РґРµРЅРёРµ
+ dance *  С‚Р°РЅС†РµРІР°С‚СЊ
+ danger *  РѕРїР°СЃРЅРѕСЃС‚СЊ
+ dangerous *  РѕРїР°СЃРЅС‹Р№
+ dare *  СЃРјРµС‚СЊ
+ dark *  С‚РµРјРЅС‹Р№
+ date *  РґР°С‚Р°
+ daughter *  РґРѕС‡СЊ
+ day *  РґРµРЅСЊ
+ dead *  РјРµСЂС‚РІС‹Р№
+ deal *  РґРµР»Рѕ
+ death *  СЃРјРµСЂС‚СЊ
+ debt *  РґРѕР»Рі
+ December *  РґРµРєР°Р±СЂСЊ
+ decide *  СЂРµС€Р°С‚СЊ
+ decision *  СЂРµС€РµРЅРёРµ
+ decrease *  СЃРЅРёР¶Р°С‚СЊ(СЃСЏ)
+ deep *  РіР»СѓР±РѕРєРёР№
+ defeat *  РЅР°РЅРѕСЃРёС‚СЊ РїРѕСЂР°Р¶РµРЅРёРµ
+ defence *  Р·Р°С‰РёС‚Р°
+ defend *  Р·Р°С‰РёС‰Р°С‚СЊ(СЃСЏ)
+ degree *  СЃС‚РµРїРµРЅСЊ
+ delay *  РјРµРґР»РёС‚СЊ
+ delicate *  РґРµР»РёРєР°С‚РЅС‹Р№
+ deliver *  РґРѕСЃС‚Р°РІР»СЏС‚СЊ
+ demand *  С‚СЂРµР±РѕРІР°РЅРёРµ
+ department *  РѕС‚РґРµР»
+ depend *  Р·Р°РІРёСЃРµС‚СЊ
+ depth *  РіР»СѓР±РёРЅР°
+ describe *  РѕРїРёСЃС‹РІР°С‚СЊ
+ description *  РѕРїРёСЃР°РЅРёРµ
+ desert *  РїСѓСЃС‚С‹РЅСЏ
+ deserve *  Р·Р°СЃР»СѓР¶РёРІР°С‚СЊ
+ design *  РґРёР·Р°Р№РЅ
+ desire *  Р¶РµР»Р°РЅРёРµ
+ desk *  РїРёСЃСЊРјРµРЅРЅС‹Р№ СЃС‚РѕР»
+ despite *  РЅРµСЃРјРѕС‚СЂСЏ РЅР°
+ destroy *  СѓРЅРёС‡С‚РѕР¶Р°С‚СЊ
+ detail *  РґРµС‚Р°Р»СЊ
+ determination *  СЂРµС€РёС‚РµР»СЊРЅРѕСЃС‚СЊ
+ determine *  РѕРїСЂРµРґРµР»СЏС‚СЊ
+ develop *  СЂР°Р·РІРёРІР°С‚СЊ
+ dictionary *  СЃР»РѕРІР°СЂСЊ
+ die *  СѓРјРёСЂР°С‚СЊ
+ difference *  СЂР°Р·РЅРёС†Р°
+ different *  РґСЂСѓРіРѕР№
+ difficult *  С‚СЂСѓРґРЅС‹Р№
+ difficulty *  С‚СЂСѓРґРЅРѕСЃС‚СЊ
+ dig *  РєРѕРїР°С‚СЊ
+ dinner *  РѕР±РµРґ
+ direct *  РїСЂСЏРјРѕР№
+ direction *  РЅР°РїСЂР°РІР»РµРЅРёРµ
+ director *  РґРёСЂРµРєС‚РѕСЂ
+ dirt *  РіСЂСЏР·СЊ
+ dirty *  РіСЂСЏР·РЅС‹Р№
+ disappoint *  СЂР°Р·РѕС‡Р°СЂРѕРІС‹РІР°С‚СЊ
+ discover *  РѕС‚РєСЂС‹РІР°С‚СЊ
+ discovery *  РѕС‚РєСЂС‹С‚РёРµ
+ discuss *  РѕР±СЃСѓР¶РґР°С‚СЊ
+ discussion *  РґРёСЃРєСѓСЃСЃРёСЏ
+ disease *  Р±РѕР»РµР·РЅСЊ
+ disgusting *  РѕС‚РІСЂР°С‚РёС‚РµР»СЊРЅС‹Р№
+ dish *  Р±Р»СЋРґРѕ
+ dismiss *  СЂР°СЃРїСѓСЃРєР°С‚СЊ
+ distance *  РґРёСЃС‚Р°РЅС†РёСЏ
+ divide *  РґРµР»РёС‚СЊ(СЃСЏ)
+ do *  РґРµР»Р°С‚СЊ
+ doctor *  РІСЂР°С‡
+ document *  РґРѕРєСѓРјРµРЅС‚
+ dog *  СЃРѕР±Р°РєР°
+ dollar *  РґРѕР»Р»Р°СЂ
+ door *  РґРІРµСЂСЊ
+ double *  РґРІРѕР№РЅРѕР№
+ doubt *  СЃРѕРјРЅРµРЅРёРµ
+ down *  РІРЅРёР·
+ draw *  СЂРёСЃРѕРІР°С‚СЊ
+ dream *  РјРµС‡С‚Р°
+ dress *  РїР»Р°С‚СЊРµ
+ drink *  РїРёС‚СЊ
+ drive *  РµС…Р°С‚СЊ
+ drop *  СЂРѕРЅСЏС‚СЊ
+ drug *  Р»РµРєР°СЂСЃС‚РІРѕ
+ drum *  Р±Р°СЂР°Р±Р°РЅ
+ drunk *  РїСЊСЏРЅС‹Р№
+ dry *  СЃСѓС…РѕР№
+ duck *  СѓС‚РєР°
+ due *  (+ to) РѕР±СѓСЃР»РѕРІР»РµРЅРЅС‹Р№
+ dull *  С‚СѓРїРѕР№
+ during *  РІРѕ РІСЂРµРјСЏ
+ dust *  РїС‹Р»СЊ
+ duty *  РґРѕР»Рі
+ each *  РєР°Р¶РґС‹Р№
+ ear *  СѓС…Рѕ
+ early *  СЂР°РЅРЅРёР№
+ earn *  Р·Р°СЂР°Р±Р°С‚С‹РІР°С‚СЊ
+ earth *  Р·РµРјР»СЏ
+ east *  РІРѕСЃС‚РѕРє
+ eastern *  РІРѕСЃС‚РѕС‡РЅС‹Р№
+ easy *  Р»РµРіРєРёР№
+ eat *  РµСЃС‚СЊ
+ economic *  СЌРєРѕРЅРѕРјРёС‡РµСЃРєРёР№
+ economy *  СЌРєРѕРЅРѕРјРёРєР°
+ edge *  РєСЂР°Р№
+ educate *  РІРѕСЃРїРёС‚С‹РІР°С‚СЊ
+ education *  РѕР±СЂР°Р·РѕРІР°РЅРёРµ
+ effect *  СЌС„С„РµРєС‚
+ effective *  СЌС„С„РµРєС‚РёРІРЅС‹Р№
+ effort *  СѓСЃРёР»РёРµ
+ egg *  СЏР№С†Рѕ
+ eight *  РІРѕСЃРµРјСЊ
+ eighteen *  РІРѕСЃРµРјРЅР°РґС†Р°С‚СЊ
+ eighty *  РІРѕСЃРµРјСЊРґРµСЃСЏС‚
+ either *  РёР»Рё
+ elbow *  Р»РѕРєРѕС‚СЊ
+ elect *  РёР·Р±РёСЂР°С‚СЊ
+ election *  РІС‹Р±РѕСЂС‹
+ electric *  СЌР»РµРєС‚СЂРёС‡РµСЃРєРёР№
+ electricity *  СЌР»РµРєС‚СЂРёС‡РµСЃС‚РІРѕ
+ electronic *  СЌР»РµРєС‚СЂРѕРЅРЅС‹Р№
+ eleven *  РѕРґРёРЅРЅР°РґС†Р°С‚СЊ
+ else *  РµС‰Рµ
+ embarrass *  СЃРјСѓС‰Р°С‚СЊ
+ emotion *  СЌРјРѕС†РёСЏ
+ emphasize *  РїРѕРґС‡РµСЂРєРёРІР°С‚СЊ
+ employ *  РЅР°РЅРёРјР°С‚СЊ
+ employee *  СЃРѕС‚СЂСѓРґРЅРёРє
+ empty *  РїСѓСЃС‚РѕР№
+ encourage *  РїРѕРѕС‰СЂСЏС‚СЊ
+ end *  РєРѕРЅРµС†
+ enemy *  РІСЂР°Рі
+ energy *  СЌРЅРµСЂРіРёСЏ
+ engine *  РґРІРёРіР°С‚РµР»СЊ
+ engineer *  РёРЅР¶РµРЅРµСЂ
+ English *  Р°РЅРіР»РёР№СЃРєРёР№ СЏР·С‹Рє
+ enjoy *  РЅР°СЃР»Р°Р¶РґР°С‚СЊСЃСЏ
+ enough *  РґРѕСЃС‚Р°С‚РѕС‡РЅС‹Р№
+ enter *  РІС…РѕРґРёС‚СЊ
+ entertain *  СЂР°Р·РІР»РµРєР°С‚СЊ
+ entire *  РІРµСЃСЊ
+ entrance *  РІС…РѕРґ
+ envelope *  РєРѕРЅРІРµСЂС‚
+ environment *  РѕРєСЂСѓР¶Р°СЋС‰Р°СЏ СЃСЂРµРґР°
+ equal *  СЂР°РІРЅС‹Р№
+ equipment *  РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ
+ escape *  РїРѕР±РµРі
+ especially *  РѕСЃРѕР±РµРЅРЅРѕ
+ establish *  СѓС‡СЂРµР¶РґР°С‚СЊ
+ even *  РґР°Р¶Рµ
+ evening *  РІРµС‡РµСЂ
+ event *  СЃРѕР±С‹С‚РёРµ
+ ever *  РІСЃРµРіРґР°
+ every *  РєР°Р¶РґС‹Р№
+ everybody *  РІСЃСЏРєРёР№
+ everyone *  РєР°Р¶РґС‹Р№
+ everything *  РІСЃРµ
+ everywhere *  РІРµР·РґРµ
+ evidence *  РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІР°
+ evil *  Р·Р»Рѕ
+ exact *  С‚РѕС‡РЅС‹Р№
+ exactly *  С‚РѕС‡РЅРѕ
+ examine *  РёСЃСЃР»РµРґРѕРІР°С‚СЊ
+ example *  РїСЂРёРјРµСЂ
+ excellent *  РѕС‚Р»РёС‡РЅС‹Р№
+ except *  РєСЂРѕРјРµ
+ exchange *  РѕР±РјРµРЅ
+ exciting *  Р·Р°С…РІР°С‚С‹РІР°СЋС‰РёР№
+ excuse *  РёР·РІРёРЅСЏС‚СЊ(СЃСЏ)
+ exercise *  СѓРїСЂР°Р¶РЅРµРЅРёРµ
+ exist *  СЃСѓС‰РµСЃС‚РІРѕРІР°С‚СЊ
+ existence *  СЃСѓС‰РµСЃС‚РІРѕРІР°РЅРёРµ
+ expect *  Р¶РґР°С‚СЊ
+ expensive *  РґРѕСЂРѕРіРѕР№
+ experience *  РѕРїС‹С‚
+ expert *  СЌРєСЃРїРµСЂС‚
+ explain *  РѕР±СЉСЏСЃРЅСЏС‚СЊ
+ explanation *  РѕР±СЉСЏСЃРЅРµРЅРёРµ
+ explode *  РІР·СЂС‹РІР°С‚СЊ(СЃСЏ)
+ explosion *  РІР·СЂС‹РІ
+ express *  РІС‹СЂР°Р¶Р°С‚СЊ
+ expression *  РІС‹СЂР°Р¶РµРЅРёРµ
+ extreme *  РєСЂР°Р№РЅРёР№
+ eye *  РіР»Р°Р·
+ face *  Р»РёС†Рѕ
+ fact *  С„Р°РєС‚
+ factor *  С„Р°РєС‚РѕСЂ
+ factory *  Р·Р°РІРѕРґ
+ fail *  С‚РµСЂРїРµС‚СЊ РЅРµСѓРґР°С‡Сѓ
+ failure *  РїСЂРѕРІР°Р»
+ fair *  С‡РµСЃС‚РЅС‹Р№
+ fairly *  РґРѕРІРѕР»СЊРЅРѕ-С‚Р°РєРё
+ faith *  РІРµСЂР°
+ fall *  РїР°РґР°С‚СЊ
+ false *  Р»РѕР¶РЅС‹Р№
+ familiar *  Р·РЅР°РєРѕРјС‹Р№
+ family *  СЃРµРјСЊСЏ
+ famous *  РёР·РІРµСЃС‚РЅС‹Р№
+ far *  РґР°Р»РµРєРёР№
+ farm *  С„РµСЂРјР°
+ farmer *  С„РµСЂРјРµСЂ
+ fashion *  РјРѕРґР°
+ fashionable *  РјРѕРґРЅС‹Р№
+ fast *  Р±С‹СЃС‚СЂС‹Р№
+ fat *  Р¶РёСЂ
+ father *  РѕС‚РµС†
+ fault *  РІРёРЅР°
+ favor *  РѕРґРѕР»Р¶РµРЅРёРµ
+ favorite *  Р»СЋР±РёРјС‹Р№
+ fear *  СЃС‚СЂР°С…
+ feather *  РїРµСЂРѕ
+ feature *  РѕСЃРѕР±РµРЅРЅРѕСЃС‚СЊ
+ February *  С„РµРІСЂР°Р»СЊ
+ feed *  РєРѕСЂРјРёС‚СЊ(СЃСЏ)
+ feel *  С‡СѓРІСЃС‚РІРѕРІР°С‚СЊ
+ feeling *  С‡СѓРІСЃС‚РІРѕ
+ female *  Р¶РµРЅС‰РёРЅР°
+ fence *  Р·Р°Р±РѕСЂ
+ fever *  Р¶Р°СЂ
+ few *  РЅРµРјРЅРѕРіРѕ
+ field *  РїРѕР»Рµ
+ fifteen *  РїСЏС‚РЅР°РґС†Р°С‚СЊ
+ fifty *  РїСЏС‚СЊРґРµСЃСЏС‚
+ fight *  РґСЂР°С‚СЊСЃСЏ
+ figure *  С„РёРіСѓСЂР°
+ fill *  Р·Р°РїРѕР»РЅСЏС‚СЊ
+ film *  С„РёР»СЊРј
+ final *  С„РёРЅР°Р»СЊРЅС‹Р№
+ finally *  РІ РєРѕРЅС†Рµ РєРѕРЅС†РѕРІ
+ financial *  С„РёРЅР°РЅСЃРѕРІС‹Р№
+ find *  РЅР°С…РѕРґРёС‚СЊ
+ fine *  РїСЂРµРєСЂР°СЃРЅРѕ
+ finger *  РїР°Р»РµС†
+ finish *  Р·Р°РєР°РЅС‡РёРІР°С‚СЊ
+ fire *  РѕРіРѕРЅСЊ
+ firm *  С‚РІРµСЂРґС‹Р№
+ fish *  СЂС‹Р±Р°
+ fit *  РїРѕРґС…РѕРґРёС‚СЊ
+ five *  РїСЏС‚СЊ
+ fix *  РёСЃРїСЂР°РІР»СЏС‚СЊ
+ flag *  С„Р»Р°Рі
+ flame *  РїР»Р°РјСЏ
+ flat *  РїР»РѕСЃРєРёР№
+ flight *  РїРѕР»РµС‚
+ float *  РїР»С‹С‚СЊ РЅР° РїРѕРІРµСЂС…РЅРѕСЃС‚Рё
+ floor *  РїРѕР»
+ flow *  РїРѕС‚РѕРє
+ flower *  С†РІРµС‚РѕРє
+ fly *  Р»РµС‚Р°С‚СЊ
+ fold *  СЃРєР»Р°РґС‹РІР°С‚СЊ
+ follow *  СЃР»РµРґРѕРІР°С‚СЊ
+ food *  РµРґР°
+ foot *  СЃС‚СѓРїРЅСЏ
+ football *  С„СѓС‚Р±РѕР»
+ for *  РґР»СЏ
+ forbid *  Р·Р°РїСЂРµС‰Р°С‚СЊ
+ force *  СЃРёР»Р°
+ foreign *  РёРЅРѕСЃС‚СЂР°РЅРЅС‹Р№
+ forest *  Р»РµСЃ
+ forever *  (РЅР°)РІСЃРµРіРґР°
+ forget *  Р·Р°Р±С‹РІР°С‚СЊ
+ forgive *  РїСЂРѕС‰Р°С‚СЊ
+ fork *  РІРёР»РєР°
+ form *  С„РѕСЂРјР°
+ formal *  С„РѕСЂРјР°Р»СЊРЅС‹Р№
+ former *  Р±С‹РІС€РёР№
+ forty *  СЃРѕСЂРѕРє
+ forward *  РІРїРµСЂРµРґ
+ four *  С‡РµС‚С‹СЂРµ
+ fourteen *  С‡РµС‚С‹СЂРЅР°РґС†Р°С‚СЊ
+ frame *  СЂР°РјРєР°
+ free *  СЃРІРѕР±РѕРґРЅС‹Р№
+ freedom *  СЃРІРѕР±РѕРґР°
+ freeze *  Р·Р°РјРµСЂР·Р°С‚СЊ
+ frequent *  С‡Р°СЃС‚С‹Р№
+ fresh *  СЃРІРµР¶РёР№
+ Friday *  РїСЏС‚РЅРёС†Р°
+ friend *  РґСЂСѓРі
+ friendly *  РґСЂСѓР¶РµР»СЋР±РЅС‹Р№
+ frightening *  РїСѓРіР°СЋС‰РёР№
+ from *  РѕС‚
+ front *  РїРµСЂРµРґРЅРёР№
+ fruit *  С„СЂСѓРєС‚(С‹)
+ full *  РїРѕР»РЅС‹Р№
+ fun *  РІРµСЃРµР»СЊРµ
+ funeral *  РїРѕС…РѕСЂРѕРЅС‹
+ funny *  СЃРјРµС€РЅРѕР№
+ fur *  РјРµС…
+ furniture *  РјРµР±РµР»СЊ
+ further *  РґР°Р»СЊРЅРµР№С€РёР№
+ future *  Р±СѓРґСѓС‰РµРµ
+ gain *  РїРѕР»СѓС‡Р°С‚СЊ
+ game *  РёРіСЂР°
+ garden *  СЃР°Рґ
+ gas *  РіР°Р·
+ gate *  РІРѕСЂРѕС‚Р°
+ gather *  СЃРѕР±РёСЂР°С‚СЊ(СЃСЏ)
+ general *  РѕР±С‰РёР№
+ generally *  РѕР±С‹С‡РЅРѕ
+ generous *  С‰РµРґСЂС‹Р№
+ gentle *  РЅРµР¶РЅС‹Р№
+ get *  РїРѕР»СѓС‡РёС‚СЊ
+ gift *  РїРѕРґР°СЂРѕРє
+ girl *  РґРµРІРѕС‡РєР°
+ give *  РґР°С‚СЊ
+ glad *  РґРѕРІРѕР»СЊРЅС‹Р№
+ glass *  СЃС‚РµРєР»Рѕ
+ global *  РіР»РѕР±Р°Р»СЊРЅС‹Р№
+ glue *  РєР»РµР№
+ go *  РёРґС‚Рё
+ goal *  С†РµР»СЊ
+ god *  Р‘РѕРі
+ gold *  Р·РѕР»РѕС‚Рѕ
+ good *  С…РѕСЂРѕС€РёР№
+ goodbye *  РґРѕ СЃРІРёРґР°РЅРёСЏ!
+ govern *  СѓРїСЂР°РІР»СЏС‚СЊ
+ government *  РіРѕСЃСѓРґР°СЂСЃС‚РІРѕ
+ grade *  РєР»Р°СЃСЃ
+ gradual *  РїРѕСЃС‚РµРїРµРЅРЅС‹Р№
+ grain *  Р·РµСЂРЅРѕ
+ gram *  РіСЂР°РјРј
+ grand *  РІРµР»РёРєРёР№
+ grandfather *  РґРµРґСѓС€РєР°
+ grandmother *  Р±Р°Р±СѓС€РєР°
+ grandparent *  Р±Р°Р±СѓС€РєР° РёР»Рё РґРµРґСѓС€РєР°
+ grass *  С‚СЂР°РІР°
+ grateful *  Р±Р»Р°РіРѕРґР°СЂРЅС‹Р№
+ grave *  РјРѕРіРёР»Р°
+ gray *  СЃРµСЂС‹Р№
+ great *  РѕРіСЂРѕРјРЅС‹Р№
+ green *  Р·РµР»РµРЅС‹Р№
+ ground *  Р·РµРјР»СЏ
+ group *  РіСЂСѓРїРїР°
+ grow *  СЂР°СЃС‚Рё
+ growth *  СЂРѕСЃС‚
+ guard *  РѕС…СЂР°РЅР°
+ guess *  РіР°РґР°С‚СЊ
+ guest *  РіРѕСЃС‚СЊ
+ guide *  РїСѓС‚РµРІРѕРґРёС‚РµР»СЊ
+ guilty *  РІРёРЅРѕРІРЅС‹Р№
+ gun *  РїРёСЃС‚РѕР»РµС‚
+ habit *  РїСЂРёРІС‹С‡РєР°
+ hair *  РІРѕР»РѕСЃС‹
+ half *  РїРѕР»РѕРІРёРЅР°
+ hall *  Р·Р°Р»
+ hammer *  РјРѕР»РѕС‚(РѕРє)
+ hand *  СЂСѓРєР°
+ handle *  СЂСѓС‡РєР°
+ hang *  РІРµС€Р°С‚СЊ
+ happen *  СЃР»СѓС‡Р°С‚СЊСЃСЏ
+ happy *  СЃС‡Р°СЃС‚Р»РёРІС‹Р№
+ hard *  С‚СЂСѓРґРЅС‹Р№
+ hardly *  РІСЂСЏРґ Р»Рё
+ harm *  РІСЂРµРґ
+ harmful *  РІСЂРµРґРЅС‹Р№
+ hat *  С€Р°РїРєР°
+ hate *  РЅРµРЅР°РІРёРґРµС‚СЊ
+ have *  РёРјРµС‚СЊ
+ he *  РѕРЅ
+ head *  РіРѕР»РѕРІР°
+ health *  Р·РґРѕСЂРѕРІСЊРµ
+ healthy *  Р·РґРѕСЂРѕРІС‹Р№
+ hear *  СЃР»С‹С€Р°С‚СЊ
+ heart *  СЃРµСЂРґС†Рµ
+ heat *  С‚РµРїР»Рѕ
+ heaven *  РЅРµР±РµСЃР°
+ heavy *  С‚СЏР¶РµР»С‹Р№
+ heel *  РїСЏС‚РєР°
+ height *  РІС‹СЃРѕС‚Р°
+ hello *  РїСЂРёРІРµС‚
+ help *  РїРѕРјРѕС‰СЊ
+ helpful *  РїРѕР»РµР·РЅС‹Р№
+ here *  Р·РґРµСЃСЊ
+ herself *  СЃРµР±СЏ
+ hi *  РїСЂРёРІРµС‚
+ hide *  СЃРєСЂС‹РІР°С‚СЊ(СЃСЏ)
+ high *  РІС‹СЃРѕРєРѕ
+ hill *  С…РѕР»Рј
+ himself *  СЃР°Рј
+ history *  РёСЃС‚РѕСЂРёСЏ
+ hit *  СѓРґР°СЂСЏС‚СЊ
+ hold *  РґРµСЂР¶Р°С‚СЊ
+ hole *  РґС‹СЂР°
+ holiday *  РїСЂР°Р·РґРЅРёРє
+ holy *  СЃРІСЏС‰РµРЅРЅС‹Р№
+ home *  РґРѕРј
+ honest *  С‡РµСЃС‚РЅС‹Р№
+ honor *  С‡РµСЃС‚СЊ
+ hope *  РЅР°РґРµСЏС‚СЊСЃСЏ
+ horn *  СЂРѕРі
+ horse *  Р»РѕС€Р°РґСЊ
+ hospital *  Р±РѕР»СЊРЅРёС†Р°
+ hot *  РіРѕСЂСЏС‡РёР№
+ hotel *  РѕС‚РµР»СЊ
+ hour *  С‡Р°СЃ
+ house *  РґРѕРј
+ how *  РєР°Рє
+ however *  РєР°Рє Р±С‹ РЅРё
+ huge *  РѕРіСЂРѕРјРЅС‹Р№
+ human *  С‡РµР»РѕРІРµРє
+ hundred *  СЃС‚Рѕ
+ hungry *  РіРѕР»РѕРґРЅС‹Р№
+ hunt *  РѕС…РѕС‚РёС‚СЊСЃСЏ
+ hurry *  СЃРїРµС€РєР°
+ hurt *  Р±РѕР»РµС‚СЊ
+ husband *  РјСѓР¶
+ I *  СЏ
+ ice *  Р»РµРґ
+ idea *  РёРґРµСЏ
+ if *  РµСЃР»Рё
+ ignore *  РёРіРЅРѕСЂРёСЂРѕРІР°С‚СЊ
+ ill *  Р±РѕР»СЊРЅРѕР№
+ illness *  Р±РѕР»РµР·РЅСЊ
+ image *  РёР·РѕР±СЂР°Р¶РµРЅРёРµ
+ imagination *  РІРѕРѕР±СЂР°Р¶РµРЅРёРµ
+ imagine *  РІРѕРѕР±СЂР°Р¶Р°С‚СЊ
+ immediate *  РЅРµРјРµРґР»РµРЅРЅС‹Р№
+ immediately *  РЅРµРјРµРґР»РµРЅРЅРѕ
+ importance *  РІР°Р¶РЅРѕСЃС‚СЊ
+ important *  РІР°Р¶РЅС‹Р№
+ impressive *  РІРїРµС‡Р°С‚Р»СЏСЋС‰РёР№
+ improve *  СѓР»СѓС‡С€Р°С‚СЊ(СЃСЏ)
+ improvement *  СѓР»СѓС‡С€РµРЅРёРµ
+ in *  РІ
+ inch *  РґСЋР№Рј
+ include *  РІРєР»СЋС‡Р°С‚СЊ РІ СЃРµР±СЏ
+ including *  РІРєР»СЋС‡Р°СЏ
+ income *  РґРѕС…РѕРґ
+ increase *  РІРѕР·СЂР°СЃС‚Р°С‚СЊ
+ indeed *  РІ СЃР°РјРѕРј РґРµР»Рµ
+ independent *  РЅРµР·Р°РІРёСЃРёРјС‹Р№
+ individual *  РёРЅРґРёРІРёРґСѓР°Р»СЊРЅС‹Р№
+ industry *  РёРЅРґСѓСЃС‚СЂРёСЏ
+ infection *  РёРЅС„РµРєС†РёСЏ
+ influence *  РІР»РёСЏРЅРёРµ
+ inform *  СЃРѕРѕР±С‰РёС‚СЊ
+ information *  РёРЅС„РѕСЂРјР°С†РёСЏ
+ injure *  СЂР°РЅРёС‚СЊ
+ injury *  С‚СЂР°РІРјР°
+ inner *  РІРЅСѓС‚СЂРµРЅРЅРёР№
+ insect *  РЅР°СЃРµРєРѕРјРѕРµ
+ inside *  РІРЅСѓС‚СЂРё
+ instead *  РІРјРµСЃС‚Рѕ
+ institution *  СѓС‡СЂРµР¶РґРµРЅРёРµ
+ instruction *  РёРЅСЃС‚СЂСѓРєС†РёСЏ
+ instrument *  РёРЅСЃС‚СЂСѓРјРµРЅС‚
+ insult *  РѕСЃРєРѕСЂР±Р»РµРЅРёРµ
+ insurance *  СЃС‚СЂР°С…РѕРІР°РЅРёРµ
+ intelligent *  РёРЅС‚РµР»Р»РµРєС‚СѓР°Р»СЊРЅС‹Р№
+ intend *  РЅР°РјРµСЂРµРІР°С‚СЊСЃСЏ
+ intention *  РЅР°РјРµСЂРµРЅРёРµ
+ interest *  РёРЅС‚РµСЂРµСЃ
+ interesting *  РёРЅС‚РµСЂРµСЃРЅС‹Р№
+ international *  РјРµР¶РґСѓРЅР°СЂРѕРґРЅС‹Р№
+ interrupt *  РїСЂРµСЂС‹РІР°С‚СЊ
+ into *  РІ
+ introduce *  РїСЂРµРґСЃС‚Р°РІР»СЏС‚СЊ
+ introduction *  РІРІРµРґРµРЅРёРµ
+ invent *  РёР·РѕР±СЂРµС‚Р°С‚СЊ
+ invitation *  РїСЂРёРіР»Р°С€РµРЅРёРµ
+ invite *  РїСЂРёРіР»Р°С€Р°С‚СЊ
+ involve *  РІРѕРІР»РµРєР°С‚СЊ
+ iron *  Р¶РµР»РµР·Рѕ
+ island *  РѕСЃС‚СЂРѕРІ
+ issue *  РїСЂРѕР±Р»РµРјР°
+ it *  СЌС‚Рѕ
+ itself *  СЃР°Рј
+ January *  СЏРЅРІР°СЂСЊ
+ job *  СЂР°Р±РѕС‚Р°
+ join *  СЃРѕРµРґРёРЅСЏС‚СЊ
+ joke *  С€СѓС‚РєР°
+ judge *  СЃСѓРґРёС‚СЊ
+ judgment *  СЃСѓР¶РґРµРЅРёРµ
+ juice *  СЃРѕРє
+ July *  РёСЋР»СЊ
+ jump *  РїСЂС‹РіР°С‚СЊ
+ June *  РёСЋРЅСЊ
+ just *  С‚РѕС‡РЅРѕ
+ justice *  СЃРїСЂР°РІРµРґР»РёРІРѕСЃС‚СЊ
+ keep *  РґРµСЂР¶Р°С‚СЊ
+ key *  РєР»СЋС‡
+ kick *  РїРёРЅР°С‚СЊ
+ kid *  СЂРµР±РµРЅРѕРє
+ kill *  СѓР±РёРІР°С‚СЊ
+ kilogram *  РєРёР»РѕРіСЂР°РјРј
+ kilometer *  РєРёР»РѕРјРµС‚СЂ
+ kind *  РґРѕР±СЂС‹Р№
+ king *  РєРѕСЂРѕР»СЊ
+ kiss *  РїРѕС†РµР»СѓР№
+ kitchen *  РєСѓС…РЅСЏ
+ knee *  РєРѕР»РµРЅРѕ
+ knife *  РЅРѕР¶
+ knock *  СЃС‚СѓС‡Р°С‚СЊ(СЃСЏ)
+ knot *  СѓР·РµР»
+ know *  Р·РЅР°С‚СЊ
+ knowledge *  Р·РЅР°РЅРёРµ
+ lack *  РЅРµС…РІР°С‚РєР°
+ lady *  Р»РµРґРё
+ lake *  РѕР·РµСЂРѕ
+ lamp *  Р»Р°РјРїР°
+ land *  Р·РµРјР»СЏ
+ language *  СЏР·С‹Рє
+ large *  Р±РѕР»СЊС€РѕР№
+ last *  РїРѕСЃР»РµРґРЅРёР№
+ late *  РїРѕР·РґРЅРёР№
+ laugh *  СЃРјРµСЏС‚СЊСЃСЏ
+ law *  Р·Р°РєРѕРЅ
+ lawyer *  Р°РґРІРѕРєР°С‚
+ layer *  СЃР»РѕР№
+ lazy *  Р»РµРЅРёРІС‹Р№
+ lead *  РІРµСЃС‚Рё
+ leader *  Р»РёРґРµСЂ
+ leaf *  Р»РёСЃС‚
+ learn *  СѓС‡РёС‚СЊСЃСЏ
+ least *  РјРµРЅРµРµ РІСЃРµРіРѕ
+ leather *  РєРѕР¶Р°
+ leave *  РїРѕРєРёРґР°С‚СЊ
+ left *  Р»РµРІС‹Р№
+ leg *  РЅРѕРіР°
+ legal *  Р»РµРіР°Р»СЊРЅС‹Р№
+ lend *  РґР°РІР°С‚СЊ РІР·Р°Р№РјС‹
+ length *  РґР»РёРЅР°
+ less *  РјРµРЅСЊС€Рµ
+ lesson *  СѓСЂРѕРє
+ let *  РїРѕР·РІРѕР»СЏС‚СЊ
+ letter *  РїРёСЃСЊРјРѕ
+ level *  СѓСЂРѕРІРµРЅСЊ
+ library *  Р±РёР±Р»РёРѕС‚РµРєР°
+ lid *  РєСЂС‹С€РєР°
+ lie *  Р»РµР¶Р°С‚СЊ
+ life *  Р¶РёР·РЅСЊ
+ lift *  РїРѕРґРЅРёРјР°С‚СЊ(СЃСЏ)
+ light *  СЃРІРµС‚РёС‚СЊ
+ like *  Р»СЋР±РёС‚СЊ
+ likely *  РІРµСЂРѕСЏС‚РЅРѕ
+ limit *  РѕРіСЂР°РЅРёС‡РёРІР°С‚СЊ
+ line *  Р»РёРЅРёСЏ
+ lip *  РіСѓР±Р°
+ liquid *  Р¶РёРґРєРѕСЃС‚СЊ
+ list *  СЃРїРёСЃРѕРє
+ listen *  СЃР»СѓС€Р°С‚СЊ
+ liter *  Р»РёС‚СЂ
+ literature *  Р»РёС‚РµСЂР°С‚СѓСЂР°
+ little *  РјР°Р»РµРЅСЊРєРёР№
+ live *  Р¶РёС‚СЊ
+ load *  Р·Р°РіСЂСѓР¶Р°С‚СЊ
+ loaf *  Р±СѓС…Р°РЅРєР°
+ local *  РјРµСЃС‚РЅС‹Р№
+ lock *  Р·Р°РїРёСЂР°С‚СЊ
+ lonely *  РѕРґРёРЅРѕРєРёР№
+ long *  РґР»РёРЅРЅС‹Р№
+ look *  СЃРјРѕС‚СЂРµС‚СЊ
+ lose *  С‚РµСЂСЏС‚СЊ
+ loss *  РїРѕС‚РµСЂСЏ
+ lot *  РјРЅРѕРіРѕ
+ loud *  РіСЂРѕРјРєРёР№
+ love *  Р»СЋР±РѕРІСЊ
+ low *  РЅРёР·РєРёР№
+ loyal *  Р»РѕСЏР»СЊРЅС‹Р№
+ luck *  СѓРґР°С‡Р°
+ lucky *  СѓРґР°С‡Р»РёРІС‹Р№
+ lung *  Р»РµРіРєРѕРµ
+ machine *  РјР°С€РёРЅР°
+ magazine *  Р¶СѓСЂРЅР°Р»
+ magic *  РјР°РіРёСЏ
+ mail *  РїРѕС‡С‚Р°
+ main *  РіР»Р°РІРЅС‹Р№
+ major *  РѕСЃРЅРѕРІРЅРѕР№
+ make *  РґРµР»Р°С‚СЊ
+ male *  РјСѓР¶С‡РёРЅР°
+ man *  РјСѓР¶С‡РёРЅР°
+ manage *  СѓРїСЂР°РІР»СЏС‚СЊ
+ manager *  РјРµРЅРµРґР¶РµСЂ
+ many *  РјРЅРѕРіРёРµ
+ map *  РєР°СЂС‚Р°
+ March *  РјР°СЂС‚
+ mark *  Р·РЅР°Рє
+ market *  СЂС‹РЅРѕРє
+ marriage *  Р±СЂР°Рє
+ married *  Р¶РµРЅР°С‚С‹Р№
+ marry *  Р¶РµРЅРёС‚СЊСЃСЏ
+ mass *  РјР°СЃСЃР°
+ match *  СЃРѕРѕС‚РІРµС‚СЃС‚РІРѕРІР°С‚СЊ
+ material *  РјР°С‚РµСЂРёР°Р»
+ mathematics *  РјР°С‚РµРјР°С‚РёРєР°
+ matter *  РІРµС‰РµСЃС‚РІРѕ
+ may *  Р±С‹С‚СЊ РІРµСЂРѕСЏС‚РЅС‹Рј
+ May *  РјР°Р№
+ maybe *  РјРѕР¶РµС‚ Р±С‹С‚СЊ
+ meal *  РїСЂРёРЅСЏС‚РёРµ РїРёС‰Рё
+ mean *  РёРјРµС‚СЊ РІ РІРёРґСѓ
+ meaning *  СЃРјС‹СЃР»
+ means *  СЃСЂРµРґСЃС‚РІРѕ
+ measure *  РёР·РјРµСЂСЏС‚СЊ
+ meat *  РјСЏСЃРѕ
+ media *  РЎРњР
+ medical *  РјРµРґРёС†РёРЅСЃРєРёР№
+ medicine *  РјРµРґРёС†РёРЅР°
+ meet *  РІСЃС‚СЂРµС‡Р°С‚СЊ
+ meeting *  СЃРѕР±СЂР°РЅРёРµ
+ melt *  РїР»Р°РІРёС‚СЊ(СЃСЏ)
+ member *  СѓС‡Р°СЃС‚РЅРёРє
+ memory *  РїР°РјСЏС‚СЊ
+ mental *  РїСЃРёС…РёС‡РµСЃРєРёР№
+ mention *  СѓРїРѕРјРёРЅР°С‚СЊ
+ mess *  Р±РµСЃРїРѕСЂСЏРґРѕРє
+ message *  СЃРѕРѕР±С‰РµРЅРёРµ
+ metal *  РјРµС‚Р°Р»Р»
+ meter *  РјРµС‚СЂ
+ method *  РїСЂРёРµРј
+ middle *  СЃРµСЂРµРґРёРЅР°
+ might *  РјРѕС‰СЊ
+ mile *  РјРёР»СЏ
+ military *  РІРѕРµРЅРЅС‹Р№
+ milk *  РјРѕР»РѕРєРѕ
+ million *  РјРёР»Р»РёРѕРЅ
+ mind *  СЂР°Р·СѓРј
+ mine *  С€Р°С…С‚Р°
+ mineral *  РјРёРЅРµСЂР°Р»
+ minister *  РјРёРЅРёСЃС‚СЂ
+ minute *  РјРёРЅСѓС‚Р°
+ mirror *  Р·РµСЂРєР°Р»Рѕ
+ miss *  СЃРєСѓС‡Р°С‚СЊ
+ mistake *  РѕС€РёР±РєР°
+ mix *  СЃРјРµС€РёРІР°С‚СЊ(СЃСЏ)
+ mixture *  СЃРјРµСЃСЊ
+ model *  РјРѕРґРµР»СЊ
+ modern *  СЃРѕРІСЂРµРјРµРЅРЅС‹Р№
+ moment *  РјРѕРјРµРЅС‚
+ Monday *  РїРѕРЅРµРґРµР»СЊРЅРёРє
+ money *  РґРµРЅСЊРіРё
+ monkey *  РѕР±РµР·СЊСЏРЅР°
+ month *  РјРµСЃСЏС†
+ mood *  РЅР°СЃС‚СЂРѕРµРЅРёРµ
+ moon *  Р»СѓРЅР°
+ moral *  РјРѕСЂР°Р»СЊРЅС‹Р№
+ more *  РµС‰Рµ
+ morning *  СѓС‚СЂРѕ
+ most *  РЅР°РёР±РѕР»РµРµ
+ mother *  РјР°С‚СЊ
+ motor *  РјРѕС‚РѕСЂ
+ mountain *  РіРѕСЂР°
+ mouse *  РјС‹С€СЊ
+ mouth *  СЂРѕС‚
+ move *  РїРµСЂРµРґРІРёРіР°С‚СЊ
+ movement *  РґРІРёР¶РµРЅРёРµ
+ movie *  РєРёРЅРѕ
+ movie *  РєРёРЅРѕ
+ much *  РІРµСЃСЊРјР°
+ mud *  РіСЂСЏР·СЊ
+ multiply *  СѓРјРЅРѕР¶Р°С‚СЊ(СЃСЏ)
+ murder *  СѓР±РёР№СЃС‚РІРѕ
+ muscle *  РјС‹С€С†Р°
+ music *  РјСѓР·С‹РєР°
+ musician *  РјСѓР·С‹РєР°РЅС‚
+ must *  РґРѕР»Р¶РµРЅ
+ myself *  СЃР°Рј
+ mysterious *  С‚Р°РёРЅСЃС‚РІРµРЅРЅС‹Р№
+ mystery *  С‚Р°Р№РЅР°
+ nail *  РіРІРѕР·РґСЊ
+ name *  РёРјСЏ
+ narrow *  СѓР·РєРёР№
+ nation *  РЅР°СЂРѕРґ
+ national *  РЅР°С†РёРѕРЅР°Р»СЊРЅС‹Р№
+ natural *  РµСЃС‚РµСЃС‚РІРµРЅРЅС‹Р№
+ nature *  РїСЂРёСЂРѕРґР°
+ navy *  РІРѕРµРЅРЅРѕ-РјРѕСЂСЃРєРѕР№ С„Р»РѕС‚
+ near *  РІРѕР·Р»Рµ
+ nearly *  Р±Р»РёР·РєРѕ
+ neat *  РѕРїСЂСЏС‚РЅС‹Р№
+ necessary *  РЅРµРѕР±С…РѕРґРёРјС‹Р№
+ neck *  С€РµСЏ
+ need *  РЅСѓР¶РґР°С‚СЊСЃСЏ
+ needle *  РёРіР»Р°
+ negative *  РѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Р№
+ neither *  РЅРё РѕРґРёРЅ
+ nerve *  РЅРµСЂРІ
+ nervous *  РЅРµСЂРІРЅС‹Р№
+ nest *  РіРЅРµР·РґРѕ
+ net *  СЃРµС‚СЊ
+ network *  СЃРµС‚СЊ
+ never *  РЅРёРєРѕРіРґР°
+ new *  РЅРѕРІС‹Р№
+ news *  РЅРѕРІРѕСЃС‚Рё
+ newspaper *  РіР°Р·РµС‚Р°
+ next *  СЃР»РµРґСѓСЋС‰РёР№
+ nice *  С…РѕСЂРѕС€РёР№
+ night *  РЅРѕС‡СЊ
+ nine *  РґРµРІСЏС‚СЊ
+ nineteen *  РґРµРІСЏС‚РЅР°РґС†Р°С‚СЊ
+ ninety *  РґРµРІСЏРЅРѕСЃС‚Рѕ
+ no *  РЅРµС‚
+ nobody *  РЅРёРєС‚Рѕ
+ noise *  С€СѓРј
+ none *  РЅРёРєС‚Рѕ
+ nonsense *  РµСЂСѓРЅРґР°
+ nor *  РЅРё
+ normal *  РЅРѕСЂРјР°Р»СЊРЅС‹Р№
+ north *  СЃРµРІРµСЂ
+ northern *  СЃРµРІРµСЂРЅС‹Р№
+ nose *  РЅРѕСЃ
+ not *  РЅРµ
+ note *  Р·Р°РјРµС‚РєР°
+ nothing *  РЅРёС‡С‚Рѕ
+ notice *  Р·Р°РјРµС‡Р°С‚СЊ
+ noun *  СЃСѓС‰РµСЃС‚РІРёС‚РµР»СЊРЅРѕРµ
+ November *  РЅРѕСЏР±СЂСЊ
+ now *  СЃРµР№С‡Р°СЃ
+ nowhere *  РЅРёРіРґРµ
+ number *  С‡РёСЃР»Рѕ
+ nurse *  РјРµРґСЃРµСЃС‚СЂР°
+ nut *  РѕСЂРµС…
+ obey *  РїРѕРІРёРЅРѕРІР°С‚СЊСЃСЏ
+ object *  РѕР±СЉРµРєС‚
+ obtain *  РїРѕР»СѓС‡Р°С‚СЊ
+ occasion *  СЃР»СѓС‡Р°Р№
+ ocean *  РѕРєРµР°РЅ
+ October *  РѕРєС‚СЏР±СЂСЊ
+ odd *  СЃС‚СЂР°РЅРЅС‹Р№
+ of *  СѓРєР°Р·С‹РІР°РµС‚ РЅР° РѕС‚РЅРѕС€РµРЅРёРµ РїСЂРёРЅР°РґР»РµР¶РЅРѕСЃС‚Рё
+ off *  СѓРєР°Р·С‹РІР°РµС‚ РЅР° РґРёСЃС‚Р°РЅС†РёСЋ
+ offend *  РѕСЃРєРѕСЂР±Р»СЏС‚СЊ
+ offense *  РїСЂР°РІРѕРЅР°СЂСѓС€РµРЅРёРµ
+ offensive *  РѕСЃРєРѕСЂР±РёС‚РµР»СЊРЅС‹Р№
+ offer *  РїСЂРµРґР»Р°РіР°С‚СЊ
+ office *  РѕС„РёСЃ
+ officer *  РѕС„РёС†РµСЂ
+ official *  РѕС„РёС†РёР°Р»СЊРЅС‹Р№
+ often *  С‡Р°СЃС‚Рѕ
+ oil *  РјР°СЃР»Рѕ
+ OK *  С…РѕСЂРѕС€Рѕ
+ old *  СЃС‚Р°СЂС‹Р№
+ on *  РЅР°
+ once *  СЂР°Р·
+ one *  РѕРґРёРЅ
+ onion *  Р»СѓРє
+ only *  РµРґРёРЅСЃС‚РІРµРЅРЅС‹Р№
+ onto *  РЅР°
+ open *  РѕС‚РєСЂС‹С‚С‹Р№
+ operate *  СЂР°Р±РѕС‚Р°С‚СЊ
+ operation *  РѕРїРµСЂР°С†РёСЏ
+ opinion *  РјРЅРµРЅРёРµ
+ opponent *  РѕРїРїРѕРЅРµРЅС‚
+ opportunity *  РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ
+ oppose *  РІС‹СЃС‚СѓРїР°С‚СЊ РїСЂРѕС‚РёРІ
+ opposite *  РїСЂРѕС‚РёРІРѕРїРѕР»РѕР¶РЅС‹Р№
+ opposition *  РѕРїРїРѕР·РёС†РёСЏ
+ option *  РІР°СЂРёР°РЅС‚
+ or *  РёР»Рё
+ orange *  Р°РїРµР»СЊСЃРёРЅ
+ order *  РїРѕСЂСЏРґРѕРє
+ ordinary *  РѕР±С‹С‡РЅС‹Р№
+ organ *  РѕСЂРіР°РЅ
+ organization *  РѕСЂРіР°РЅРёР·Р°С†РёСЏ
+ organize *  РѕСЂРіР°РЅРёР·РѕРІС‹РІР°С‚СЊ
+ origin *  РЅР°С‡Р°Р»Рѕ
+ original *  РѕСЂРёРіРёРЅР°Р»СЊРЅС‹Р№
+ other *  РґСЂСѓРіРѕР№
+ ought *  (+ to) РґРѕР»Р¶РµРЅ
+ ourselves *  СЃРµР±СЏ
+ out *  РІРЅРµ
+ outdoor *  РЅР°СЂСѓР¶РЅС‹Р№
+ outer *  РІРЅРµС€РЅРёР№
+ outside *  РІРЅРµ
+ over *  С‡РµСЂРµР·
+ owe *  Р·Р°РґРѕР»Р¶Р°С‚СЊ
+ own *  СЃРІРѕР№
+ owner *  РІР»Р°РґРµР»РµС†
+ pack *  СѓРїР°РєРѕРІС‹РІР°С‚СЊ
+ package *  РїР°РєРµС‚
+ page *  СЃС‚СЂР°РЅРёС†Р°
+ pain *  Р±РѕР»СЊ
+ painful *  Р±РѕР»РµР·РЅРµРЅРЅС‹Р№
+ paint *  РєСЂР°СЃРєР°
+ painting *  РєР°СЂС‚РёРЅР°
+ pair *  РїР°СЂР°
+ pale *  Р±Р»РµРґРЅС‹Р№
+ pan *  РєР°СЃС‚СЂСЋР»СЏ
+ pants *  Р±СЂСЋРєРё
+ paper *  Р±СѓРјР°РіР°
+ parallel *  РїР°СЂР°Р»Р»РµР»СЊРЅС‹Р№
+ parent *  СЂРѕРґРёС‚РµР»СЊ
+ park *  РїР°СЂРє
+ part *  С‡Р°СЃС‚СЊ
+ particular *  РєРѕРЅРєСЂРµС‚РЅС‹Р№
+ partly *  С‡Р°СЃС‚РёС‡РЅРѕ
+ partner *  РїР°СЂС‚РЅРµСЂ
+ party *  РїР°СЂС‚РёСЏ
+ pass *  РїСЂРѕС…РѕРґРёС‚СЊ
+ passage *  РїСЂРѕС…РѕРґ
+ passenger *  РїР°СЃСЃР°Р¶РёСЂ
+ past *  РїСЂРѕС€Р»РѕРµ
+ path *  РїСѓС‚СЊ
+ patience *  С‚РµСЂРїРµРЅРёРµ
+ patient *  С‚РµСЂРїРµР»РёРІС‹Р№
+ pattern *  РѕР±СЂР°Р·РµС†
+ pause *  РїР°СѓР·Р°
+ pay *  РїР»Р°С‚РёС‚СЊ
+ payment *  РѕРїР»Р°С‚Р°
+ peace *  РјРёСЂ
+ peaceful *  РјРёСЂРЅС‹Р№
+ pen *  СЂСѓС‡РєР°
+ pencil *  РєР°СЂР°РЅРґР°С€
+ people *  Р»СЋРґРё
+ pepper *  РїРµСЂРµС†
+ per *  РёР· СЂР°СЃС‡РµС‚Р° РЅР°
+ perfect *  РёРґРµР°Р»СЊРЅС‹Р№
+ perform *  РёСЃРїРѕР»РЅСЏС‚СЊ
+ performance *  РёСЃРїРѕР»РЅРµРЅРёРµ
+ perhaps *  РјРѕР¶РµС‚ Р±С‹С‚СЊ
+ period *  РїРµСЂРёРѕРґ
+ permanent *  РїРѕСЃС‚РѕСЏРЅРЅС‹Р№
+ permission *  СЂР°Р·СЂРµС€РµРЅРёРµ
+ person *  С‡РµР»РѕРІРµРє
+ personal *  Р»РёС‡РЅС‹Р№
+ persuade *  СѓР±РµР¶РґР°С‚СЊ
+ pet *  РґРѕРјР°С€РЅРµРµ Р¶РёРІРѕС‚РЅРѕРµ
+ phone *  С‚РµР»РµС„РѕРЅ
+ photograph *  С„РѕС‚РѕРіСЂР°С„РёСЂРѕРІР°С‚СЊ
+ phrase *  С„СЂР°Р·Р°
+ physical *  С„РёР·РёС‡РµСЃРєРёР№
+ piano *  РїРёР°РЅРёРЅРѕ
+ pick *  СЃРѕР±РёСЂР°С‚СЊ
+ picture *  РєР°СЂС‚РёРЅРєР°
+ piece *  С‡Р°СЃС‚СЊ
+ pig *  СЃРІРёРЅСЊСЏ
+ pile *  РєСѓС‡Р°
+ pilot *  РїРёР»РѕС‚
+ pin *  Р±СѓР»Р°РІРєР°
+ pink *  СЂРѕР·РѕРІС‹Р№
+ pipe *  С‚СЂСѓР±Р°
+ pity *  Р¶Р°Р»РѕСЃС‚СЊ
+ place *  РјРµСЃС‚Рѕ
+ plain *  СЂР°РІРЅРёРЅР°
+ plan *  РїР»Р°РЅ
+ plane *  СЃР°РјРѕР»РµС‚
+ plant *  СЂР°СЃС‚РµРЅРёРµ
+ plastic *  РїР»Р°СЃС‚РёРє
+ plate *  С‚Р°СЂРµР»РєР°
+ play *  РёРіСЂР°С‚СЊ
+ player *  РёРіСЂРѕРє
+ pleasant *  РїСЂРёСЏС‚РЅС‹Р№
+ please *  РїРѕР¶Р°Р»СѓР№СЃС‚Р°
+ pleasure *  СѓРґРѕРІРѕР»СЊСЃС‚РІРёРµ
+ plenty *  РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ
+ plural *  РјРЅРѕР¶РµСЃС‚РІРµРЅРЅС‹Р№
+ pocket *  РєР°СЂРјР°РЅ
+ poem *  СЃС‚РёС…РѕС‚РІРѕСЂРµРЅРёРµ
+ poetry *  РїРѕСЌР·РёСЏ
+ point *  С‚РѕС‡РєР°
+ poison *  СЏРґ
+ poisonous *  СЏРґРѕРІРёС‚С‹Р№
+ pole *  СЃС‚РѕР»Р±
+ police *  РїРѕР»РёС†РёСЏ
+ polish *  РїРѕР»РёСЂРѕРІР°С‚СЊ
+ polite *  РІРµР¶Р»РёРІС‹Р№
+ political *  РїРѕР»РёС‚РёС‡РµСЃРєРёР№
+ politician *  РїРѕР»РёС‚РёРє
+ politics *  РїРѕР»РёС‚РёРєР°
+ pool *  Р±Р°СЃСЃРµР№РЅ
+ poor *  Р±РµРґРЅС‹Р№
+ popular *  РїРѕРїСѓР»СЏСЂРЅС‹Р№
+ population *  РЅР°СЃРµР»РµРЅРёРµ
+ port *  РїРѕСЂС‚
+ position *  РїРѕР»РѕР¶РµРЅРёРµ
+ positive *  РїРѕР·РёС‚РёРІРЅС‹Р№
+ possess *  РІР»Р°РґРµС‚СЊ
+ possession *  РІР»Р°РґРµРЅРёРµ
+ possibility *  РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ
+ possible *  РІРѕР·РјРѕР¶РЅС‹Р№
+ possibly *  РІРѕР·РјРѕР¶РЅРѕ
+ post *  РїРѕС‡С‚Р°
+ pot *  РіРѕСЂС€РѕРє
+ potato *  РєР°СЂС‚РѕС„РµР»СЊ
+ pound *  С„СѓРЅС‚ (4536 Рі)
+ pour *  Р»РёС‚СЊ(СЃСЏ)
+ powder *  РїРѕСЂРѕС€РѕРє
+ power *  СЃРёР»Р°
+ powerful *  РјРѕС‰РЅС‹Р№
+ practical *  РїСЂР°РєС‚РёС‡РЅС‹Р№
+ practice *  РїСЂР°РєС‚РёРєР°
+ praise *  РїРѕС…РІР°Р»Р°
+ pray *  РјРѕР»РёС‚СЊ(СЃСЏ)
+ prayer *  РјРѕР»РёС‚РІР°
+ prefer *  РїСЂРµРґРїРѕС‡РёС‚Р°С‚СЊ
+ preparation *  РїРѕРґРіРѕС‚РѕРІРєР°
+ prepare *  РіРѕС‚РѕРІРёС‚СЊ
+ present *  РЅР°СЃС‚РѕСЏС‰РµРµ РІСЂРµРјСЏ
+ preserve *  СЃРѕС…СЂР°РЅСЏС‚СЊ
+ president *  РїСЂРµР·РёРґРµРЅС‚
+ press *  РЅР°Р¶РёРјР°С‚СЊ
+ pressure *  РґР°РІР»РµРЅРёРµ
+ pretend *  РїСЂРёС‚РІРѕСЂСЏС‚СЊСЃСЏ
+ pretty *  СЃРёРјРїР°С‚РёС‡РЅС‹Р№
+ prevent *  РїСЂРµРґРѕС‚РІСЂР°С‰Р°С‚СЊ
+ previous *  РїСЂРµРґС‹РґСѓС‰РёР№
+ previously *  СЂР°РЅРµРµ
+ price *  С†РµРЅР°
+ priest *  СЃРІСЏС‰РµРЅРЅРёРє
+ prince *  РїСЂРёРЅС†
+ principle *  РїСЂРёРЅС†РёРї
+ print *  РїРµС‡Р°С‚СЊ
+ prison *  С‚СЋСЂСЊРјР°
+ prisoner *  Р·Р°РєР»СЋС‡РµРЅРЅС‹Р№
+ private *  С‡Р°СЃС‚РЅС‹Р№
+ prize *  РїСЂРёР·
+ probably *  РІРµСЂРѕСЏС‚РЅРѕ
+ problem *  РїСЂРѕР±Р»РµРјР°
+ process *  РїСЂРѕС†РµСЃСЃ
+ produce *  РїСЂРѕРёР·РІРѕРґРёС‚СЊ
+ product *  РїСЂРѕРґСѓРєС‚
+ production *  РїСЂРѕРёР·РІРѕРґСЃС‚РІРѕ
+ profession *  РїСЂРѕС„РµСЃСЃРёСЏ
+ professional *  РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅС‹Р№
+ profit *  РїСЂРёР±С‹Р»СЊ
+ program *  РїСЂРѕРіСЂР°РјРјР°
+ progress *  РїСЂРѕРіСЂРµСЃСЃ
+ promise *  РѕР±РµС‰Р°РЅРёРµ
+ pronounce *  РїСЂРѕРёР·РЅРѕСЃРёС‚СЊ
+ pronunciation *  РїСЂРѕРёР·РЅРѕС€РµРЅРёРµ
+ proof *  РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІРѕ
+ property *  СЃРѕР±СЃС‚РІРµРЅРЅРѕСЃС‚СЊ
+ proposal *  РїСЂРµРґР»РѕР¶РµРЅРёРµ
+ protect *  Р·Р°С‰РёС‰Р°С‚СЊ
+ protection *  Р·Р°С‰РёС‚Р°
+ protest *  РїСЂРѕС‚РµСЃС‚
+ proud *  РіРѕСЂРґС‹Р№
+ prove *  РґРѕРєР°Р·С‹РІР°С‚СЊ
+ provide *  СЃРЅР°Р±Р¶Р°С‚СЊ
+ public *  РѕР±С‰РµСЃС‚РІРµРЅРЅС‹Р№
+ pull *  С‚СЏРЅСѓС‚СЊ
+ pump *  РЅР°СЃРѕСЃ
+ punish *  РЅР°РєР°Р·С‹РІР°С‚СЊ
+ punishment *  РЅР°РєР°Р·Р°РЅРёРµ
+ pure *  С‡РёСЃС‚С‹Р№
+ purple *  С„РёРѕР»РµС‚РѕРІС‹Р№
+ purpose *  С†РµР»СЊ
+ push *  С‚РѕР»РєР°С‚СЊ
+ put *  РєР»Р°СЃС‚СЊ
+ quality *  РєР°С‡РµСЃС‚РІРѕ
+ quantity *  РєРѕР»РёС‡РµСЃС‚РІРѕ
+ quarrel *  СЃСЃРѕСЂР°
+ quarter *  С‡РµС‚РІРµСЂС‚СЊ
+ queen *  РєРѕСЂРѕР»РµРІР°
+ question *  РІРѕРїСЂРѕСЃ
+ quick *  Р±С‹СЃС‚СЂС‹Р№
+ quickly *  Р±С‹СЃС‚СЂРѕ
+ quiet *  С‚РёС…РёР№
+ quite *  РІРїРѕР»РЅРµ
+ race *  РіРѕРЅРєР°
+ radio *  СЂР°РґРёРѕ
+ railroad *  Р¶РµР»РµР·РЅР°СЏ РґРѕСЂРѕРіР°
+ rain *  РґРѕР¶РґСЊ
+ raise *  РїРѕРІС‹С€Р°С‚СЊ
+ range *  РґРёР°РїР°Р·РѕРЅ
+ rank *  СЂР°РЅРі
+ rapid *  Р±С‹СЃС‚СЂС‹Р№
+ rare *  СЂРµРґРєРёР№
+ rate *  РїРѕРєР°Р·Р°С‚РµР»СЊ С‡РµРіРѕ-Р».
+ rather *  СЃРєРѕСЂРµРµ
+ raw *  СЃС‹СЂРѕР№
+ reach *  РґРѕСЃС‚РёРіР°С‚СЊ
+ react *  СЂРµР°РіРёСЂРѕРІР°С‚СЊ
+ reaction *  СЂРµР°РєС†РёСЏ
+ read *  С‡РёС‚Р°С‚СЊ
+ ready *  РіРѕС‚РѕРІС‹Р№
+ real *  СЂРµР°Р»СЊРЅС‹Р№
+ realize *  СЂРµР°Р»РёР·РѕРІР°С‚СЊ
+ really *  РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ
+ reason *  РїСЂРёС‡РёРЅР°
+ reasonable *  СЂР°Р·СѓРјРЅС‹Р№
+ receive *  РїРѕР»СѓС‡Р°С‚СЊ
+ recent *  РЅРµРґР°РІРЅРёР№
+ recently *  РЅРµРґР°РІРЅРѕ
+ recognize *  СЂР°СЃРїРѕР·РЅР°РІР°С‚СЊ
+ recommend *  СЂРµРєРѕРјРµРЅРґРѕРІР°С‚СЊ
+ record *  Р·Р°РїРёСЃСЊ
+ red *  РєСЂР°СЃРЅС‹Р№
+ reduce *  СѓРјРµРЅСЊС€РёС‚СЊ
+ reduction *  СЃРѕРєСЂР°С‰РµРЅРёРµ
+ reflect *  РѕС‚СЂР°Р¶Р°С‚СЊ
+ refusal *  РѕС‚РєР°Р·
+ refuse *  РѕС‚РєР°Р·С‹РІР°С‚СЊ(СЃСЏ)
+ regard *  СѓРІР°Р¶РµРЅРёРµ
+ region *  СЂРµРіРёРѕРЅ
+ regular *  СЂРµРіСѓР»СЏСЂРЅС‹Р№
+ relate *  СЃРѕРѕС‚РЅРѕСЃРёС‚СЊ(СЃСЏ)
+ related *  СЃРІСЏР·Р°РЅРЅС‹Рµ
+ relation *  СЃРІСЏР·СЊ
+ relationship *  РІР·Р°РёРјРѕРѕС‚РЅРѕС€РµРЅРёРµ
+ relative *  СЂРѕРґСЃС‚РІРµРЅРЅРёРє
+ relax *  СЂР°СЃСЃР»Р°Р±Р»СЏС‚СЊ(СЃСЏ)
+ religion *  СЂРµР»РёРіРёСЏ
+ religious *  СЂРµР»РёРіРёРѕР·РЅС‹Р№
+ remain *  РѕСЃС‚Р°РІР°С‚СЊСЃСЏ РІ РєР°РєРѕРј-Р». СЃРѕСЃС‚РѕСЏРЅРёРё
+ remark *  Р·Р°РјРµС‡Р°РЅРёРµ
+ remember *  РїРѕРјРЅРёС‚СЊ
+ remind *  РЅР°РїРѕРјРёРЅР°С‚СЊ
+ remove *  СѓРґР°Р»СЏС‚СЊ
+ rent *  Р°СЂРµРЅРґР°
+ repair *  СЂРµРјРѕРЅС‚РёСЂРѕРІР°С‚СЊ
+ repeat *  РїРѕРІС‚РѕСЂСЏС‚СЊ
+ replace *  Р·Р°РјРµРЅСЏС‚СЊ
+ reply *  РѕС‚РІРµС‚
+ report *  РґРѕРєР»Р°Рґ
+ represent *  РїСЂРµРґСЃС‚Р°РІР»СЏС‚СЊ
+ representative *  РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ
+ request *  РїСЂРѕСЃСЊР±Р°
+ require *  С‚СЂРµР±РѕРІР°С‚СЊ
+ research *  РёСЃСЃР»РµРґРѕРІР°РЅРёРµ
+ respect *  СѓРІР°Р¶РµРЅРёРµ
+ response *  РѕС‚РІРµС‚
+ responsible *  РѕС‚РІРµС‚СЃС‚РІРµРЅРЅС‹Р№
+ rest *  РѕС‚РґС‹С…
+ restaurant *  СЂРµСЃС‚РѕСЂР°РЅ
+ restrict *  РѕРіСЂР°РЅРёС‡РёРІР°С‚СЊ
+ result *  СЂРµР·СѓР»СЊС‚Р°С‚
+ return *  РІРѕР·РІСЂР°С‰Р°С‚СЊ
+ reward *  РЅР°РіСЂР°РґР°
+ rice *  СЂРёСЃ
+ rich *  Р±РѕРіР°С‚С‹Р№
+ rid *  (+ of) РѕСЃРІРѕР±РѕР¶РґР°С‚СЊ
+ ride *  РµР·РґРёС‚СЊ
+ right *  РїСЂР°РІС‹Р№
+ ring *  РєРѕР»СЊС†Рѕ
+ rise *  РїРѕРґРЅРёРјР°С‚СЊСЃСЏ
+ risk *  СЂРёСЃРє
+ river *  СЂРµРєР°
+ road *  РґРѕСЂРѕРіР°
+ rob *  РіСЂР°Р±РёС‚СЊ
+ rock *  РєР°РјРµРЅСЊ
+ role *  СЂРѕР»СЊ
+ roll *  РєР°С‚РёС‚СЊ(СЃСЏ)
+ romantic *  СЂРѕРјР°РЅС‚РёС‡РµСЃРєРёР№
+ roof *  РєСЂС‹С€Р°
+ room *  РєРѕРјРЅР°С‚Р°
+ root *  РєРѕСЂРµРЅСЊ
+ rope *  РІРµСЂРµРІРєР°
+ rough *  РіСЂСѓР±С‹Р№
+ round *  РєСЂСѓРіР»С‹Р№
+ row *  СЂСЏРґ
+ royal *  РєРѕСЂРѕР»РµРІСЃРєРёР№
+ rub *  С‚РµСЂРµС‚СЊ(СЃСЏ)
+ rubber *  СЂРµР·РёРЅР°
+ rude *  РіСЂСѓР±С‹Р№
+ ruin *  СЂР°Р·СЂСѓС€Р°С‚СЊ
+ rule *  РїСЂР°РІРёР»Рѕ
+ ruler *  РїСЂР°РІРёС‚РµР»СЊ
+ run *  Р±РµР¶Р°С‚СЊ
+ rush *  С‚РѕСЂРѕРїРёС‚СЊ(СЃСЏ)
+ sad *  РіСЂСѓСЃС‚РЅС‹Р№
+ safe *  Р±РµР·РѕРїР°СЃРЅС‹Р№
+ safety *  Р±РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ
+ sail *  РїР»Р°РІР°С‚СЊ (РїРѕРґ РїР°СЂСѓСЃРѕРј)
+ salary *  Р·Р°СЂРїР»Р°С‚Р°
+ sale *  РїСЂРѕРґР°Р¶Р°
+ salt *  СЃРѕР»СЊ
+ same *  С‚РѕС‚ (Р¶Рµ) СЃР°РјС‹Р№
+ sand *  РїРµСЃРѕРє
+ satisfaction *  СѓРґРѕРІР»РµС‚РІРѕСЂРµРЅРёРµ
+ satisfy *  СѓРґРѕРІР»РµС‚РІРѕСЂСЏС‚СЊ
+ Saturday *  СЃСѓР±Р±РѕС‚Р°
+ save *  СЃРѕС…СЂР°РЅСЏС‚СЊ
+ say *  РіРѕРІРѕСЂРёС‚СЊ
+ scale *  С€РєР°Р»Р°
+ scatter *  СЂР°СЃСЃРµРёРІР°С‚СЊ(СЃСЏ)
+ scene *  СЃС†РµРЅР°
+ school *  С€РєРѕР»Р°
+ science *  РЅР°СѓРєР°
+ scientific *  РЅР°СѓС‡РЅС‹Р№
+ scientist *  СѓС‡РµРЅС‹Р№
+ scissors *  РЅРѕР¶РЅРёС†С‹
+ screen *  СЌРєСЂР°РЅ
+ screw *  РІРёРЅС‚
+ sea *  РјРѕСЂРµ
+ search *  РїРѕРёСЃРє
+ season *  СЃРµР·РѕРЅ
+ seat *  СЃРёРґРµРЅСЊРµ
+ second *  СЃРµРєСѓРЅРґР°
+ secret *  СЃРµРєСЂРµС‚
+ secretary *  СЃРµРєСЂРµС‚Р°СЂСЊ
+ security *  Р±РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ
+ see *  РІРёРґРµС‚СЊ
+ seed *  СЃРµРјСЏ
+ seek *  РёСЃРєР°С‚СЊ
+ seem *  РєР°Р·Р°С‚СЊСЃСЏ
+ sell *  РїСЂРѕРґР°РІР°С‚СЊ
+ send *  РїРѕСЃС‹Р»Р°С‚СЊ
+ sense *  С‡СѓРІСЃС‚РІРѕ
+ sensible *  СЂР°Р·СѓРјРЅС‹Р№
+ sensitive *  С‡СѓРІСЃС‚РІРёС‚РµР»СЊРЅС‹Р№
+ sentence *  РїСЂРµРґР»РѕР¶РµРЅРёРµ
+ separate *  РѕС‚РґРµР»СЊРЅС‹Р№
+ September *  СЃРµРЅС‚СЏР±СЂСЊ
+ series *  СЂСЏРґ
+ serious *  СЃРµСЂСЊРµР·РЅС‹Р№
+ seriously *  СЃРµСЂСЊРµР·РЅРѕ
+ servant *  СЃР»СѓРіР°
+ serve *  СЃР»СѓР¶РёС‚СЊ
+ service *  РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ
+ set *  СЃС‚Р°РІРёС‚СЊ
+ settle *  СѓСЂРµРіСѓР»РёСЂРѕРІР°С‚СЊ
+ seven *  СЃРµРјСЊ
+ seventeen *  СЃРµРјРЅР°РґС†Р°С‚СЊ
+ seventy *  СЃРµРјСЊРґРµСЃСЏС‚
+ several *  РЅРµСЃРєРѕР»СЊРєРѕ
+ severe *  СЃСѓСЂРѕРІС‹Р№
+ sew *  С€РёС‚СЊ
+ sex *  СЃРµРєСЃ
+ sexual *  СЃРµРєСЃСѓР°Р»СЊРЅС‹Р№
+ shade *  С‚РµРЅСЊ
+ shadow *  С‚РµРЅСЊ
+ shake *  С‚СЂСЏСЃС‚Рё
+ shall *  РѕР±СЂР°Р·СѓРµС‚ Р±СѓРґСѓС‰РµРµ РІСЂРµРјСЏ
+ shame *  РїРѕР·РѕСЂ
+ shape *  С„РѕСЂРјР°
+ share *  РґРµР»РёС‚СЊ
+ sharp *  РѕСЃС‚СЂС‹Р№
+ she *  РѕРЅР°
+ sheep *  РѕРІС†Р°
+ sheet *  Р»РёСЃС‚
+ shelf *  РїРѕР»РєР°
+ shell *  СЂР°РєРѕРІРёРЅР°
+ shelter *  РїСЂРёСЋС‚
+ shine *  СЃРІРµС‚РёС‚СЊ(СЃСЏ)
+ shiny *  СЃРѕР»РЅРµС‡РЅС‹Р№
+ ship *  РєРѕСЂР°Р±Р»СЊ
+ shirt *  СЂСѓР±Р°С€РєР°
+ shock *  СѓРґР°СЂ
+ shoe *  Р±РѕС‚РёРЅРѕРє
+ shoot *  СЃС‚СЂРµР»СЏС‚СЊ
+ shop *  РјР°РіР°Р·РёРЅ
+ short *  РєРѕСЂРѕС‚РєРёР№
+ shot *  РІС‹СЃС‚СЂРµР»
+ should *  РґРѕР»Р¶РµРЅ
+ shoulder *  РїР»РµС‡Рѕ
+ shout *  РєСЂРёС‡Р°С‚СЊ
+ show *  РїРѕРєР°Р·С‹РІР°С‚СЊ
+ shut *  Р·Р°РєСЂС‹РІР°С‚СЊ(СЃСЏ)
+ shy *  СЃС‚РµСЃРЅРёС‚РµР»СЊРЅС‹Р№
+ sick *  Р±РѕР»СЊРЅРѕР№
+ side *  СЃС‚РѕСЂРѕРЅР°
+ sight *  Р·СЂРµРЅРёРµ
+ sign *  Р·РЅР°Рє
+ signal *  СЃРёРіРЅР°Р»
+ significant *  Р·РЅР°С‡РёС‚РµР»СЊРЅС‹Р№
+ silence *  С‚РёС€РёРЅР°
+ silent *  С‚РёС…РёР№
+ silk *  С€РµР»Рє
+ silly *  РіР»СѓРїС‹Р№
+ silver *  СЃРµСЂРµР±СЂРѕ
+ similar *  РїРѕС…РѕР¶РёР№
+ simple *  РїСЂРѕСЃС‚РѕР№
+ since *  СЃ
+ sincere *  РёСЃРєСЂРµРЅРЅРёР№
+ sing *  РїРµС‚СЊ
+ single *  РѕРґРёРЅ
+ singular *  РµРґРёРЅСЃС‚РІРµРЅРЅС‹Р№
+ sink *  С‚РѕРЅСѓС‚СЊ
+ sister *  СЃРµСЃС‚СЂР°
+ sit *  СЃРёРґРµС‚СЊ
+ situation *  СЃРёС‚СѓР°С†РёСЏ
+ six *  С€РµСЃС‚СЊ
+ sixteen *  С€РµСЃС‚РЅР°РґС†Р°С‚СЊ
+ sixty *  С€РµСЃС‚СЊРґРµСЃСЏС‚
+ size *  СЂР°Р·РјРµСЂ
+ skill *  СѓРјРµРЅРёРµ
+ skillful *  РёСЃРєСѓСЃРЅС‹Р№
+ skin *  РєРѕР¶Р°
+ skirt *  СЋР±РєР°
+ sky *  РЅРµР±Рѕ
+ sleep *  СЃРїР°С‚СЊ
+ slide *  СЃРєРѕР»СЊР·РёС‚СЊ
+ slight *  РЅРµР·РЅР°С‡РёС‚РµР»СЊРЅС‹Р№
+ slip *  СЃРєРѕР»СЊР·РёС‚СЊ
+ slope *  СЃРєР»РѕРЅ
+ slow *  РјРµРґР»РµРЅРЅС‹Р№
+ small *  РјР°Р»РµРЅСЊРєРёР№
+ smart *  СѓРјРЅС‹Р№
+ smell *  Р·Р°РїР°С…
+ smile *  СѓР»С‹Р±Р°С‚СЊСЃСЏ
+ smoke *  РґС‹Рј
+ smooth *  РіР»Р°РґРєРёР№
+ snake *  Р·РјРµСЏ
+ snow *  СЃРЅРµРі
+ so *  С‚Р°Рє
+ soap *  РјС‹Р»Рѕ
+ social *  РѕР±С‰РµСЃС‚РІРµРЅРЅС‹Р№
+ society *  РѕР±С‰РµСЃС‚РІРѕ
+ sock *  РЅРѕСЃРѕРє
+ soft *  РјСЏРіРєРёР№
+ soil *  РїРѕС‡РІР°
+ soldier *  СЃРѕР»РґР°С‚
+ solid *  С‚РІРµСЂРґС‹Р№
+ solution *  СЂРµС€РµРЅРёРµ
+ solve *  СЂРµС€Р°С‚СЊ
+ some *  РЅРµРєРѕС‚РѕСЂРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ
+ somebody *  РєС‚Рѕ-С‚Рѕ
+ somehow *  РєР°Рє-С‚Рѕ
+ someone *  РєС‚Рѕ-С‚Рѕ
+ something *  РєРѕРµ-С‡С‚Рѕ
+ sometimes *  РёРЅРѕРіРґР°
+ somewhere *  РіРґРµ-С‚Рѕ
+ son *  СЃС‹РЅ
+ song *  РїРµСЃРЅСЏ
+ soon *  СЃРєРѕСЂРѕ
+ sore *  Р±РѕР»СЊРЅРѕР№
+ sorry *  РёР·РІРёРЅРёС‚Рµ
+ sort *  С‚РёРї
+ soul *  РґСѓС€Р°
+ sound *  Р·РІСѓС‡Р°С‚СЊ
+ soup *  СЃСѓРї
+ sour *  РєРёСЃР»С‹Р№
+ source *  РёСЃС‚РѕС‡РЅРёРє
+ south *  СЋРі
+ southern *  СЋР¶РЅС‹Р№
+ space *  РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРѕ
+ speak *  РіРѕРІРѕСЂРёС‚СЊ
+ special *  СЃРїРµС†РёР°Р»СЊРЅС‹Р№
+ specific *  РєРѕРЅРєСЂРµС‚РЅС‹Р№
+ speech *  СЂРµС‡СЊ
+ speed *  СЃРєРѕСЂРѕСЃС‚СЊ
+ spell *  РїСЂРѕРёР·РЅРѕСЃРёС‚СЊ РїРѕ Р±СѓРєРІР°Рј
+ spend *  С‚СЂР°С‚РёС‚СЊ
+ spin *  РєСЂСѓС‚РёС‚СЊ(СЃСЏ)
+ spirit *  РґСѓС…
+ split *  СЂР°СЃС‰РµРїР»СЏС‚СЊ(СЃСЏ)
+ spoil *  РїРѕСЂС‚РёС‚СЊ(СЃСЏ)
+ spoon *  Р»РѕР¶РєР°
+ sport *  СЃРїРѕСЂС‚
+ spot *  РїСЏС‚РЅРѕ
+ spread *  СЂР°СЃРїСЂРѕСЃС‚СЂР°РЅСЏС‚СЊ(СЃСЏ)
+ spring *  РІРµСЃРЅР°
+ square *  РєРІР°РґСЂР°С‚
+ stage *  СЌС‚Р°Рї
+ stair *  СЃС‚СѓРїРµРЅСЊРєР°
+ stamp *  С€С‚Р°РјРї
+ stand *  СЃС‚РѕСЏС‚СЊ
+ standard *  СЃС‚Р°РЅРґР°СЂС‚РЅС‹Р№
+ star *  Р·РІРµР·РґР°
+ start *  РЅР°С‡Р°Р»Рѕ
+ state *  СЃРѕСЃС‚РѕСЏРЅРёРµ
+ statement *  Р·Р°СЏРІР»РµРЅРёРµ
+ station *  СЃС‚Р°РЅС†РёСЏ
+ stay *  РѕСЃС‚Р°РЅР°РІР»РёРІР°С‚СЊСЃСЏ
+ steady *  СѓСЃС‚РѕР№С‡РёРІС‹Р№
+ steal *  РІРѕСЂРѕРІР°С‚СЊ
+ steam *  РїР°СЂ
+ steel *  СЃС‚Р°Р»СЊ
+ steep *  РєСЂСѓС‚РѕР№
+ step *  С€Р°Рі
+ stick *  РїСЂРёРєР»РµРёРІР°С‚СЊ(СЃСЏ)
+ stiff *  Р¶РµСЃС‚РєРёР№
+ still *  РїРѕ-РїСЂРµР¶РЅРµРјСѓ
+ sting *  Р¶Р°Р»РёС‚СЊ
+ stomach *  Р¶РёРІРѕС‚
+ stone *  РєР°РјРµРЅСЊ
+ stop *  РѕСЃС‚Р°РЅРѕРІРєР°
+ store *  С…СЂР°РЅРёС‚СЊ
+ storm *  Р±СѓСЂСЏ
+ story *  СЂР°СЃСЃРєР°Р·
+ straight *  РїСЂСЏРјРѕР№
+ strange *  СЃС‚СЂР°РЅРЅС‹Р№
+ stranger *  РЅРµР·РЅР°РєРѕРјРµС†
+ strategy *  СЃС‚СЂР°С‚РµРіРёСЏ
+ stream *  РїРѕС‚РѕРє
+ street *  СѓР»РёС†Р°
+ strength *  СЃРёР»Р°
+ stretch *  С‚СЏРЅСѓС‚СЊ(СЃСЏ)
+ strict *  СЃС‚СЂРѕРіРёР№
+ strike *  СѓРґР°СЂСЏС‚СЊ
+ string *  СЃС‚СЂСѓРЅР°
+ strong *  СЃРёР»СЊРЅС‹Р№
+ structure *  СЃС‚СЂСѓРєС‚СѓСЂР°
+ struggle *  РґРµР»Р°С‚СЊ СѓСЃРёР»РёСЏ
+ student *  СЃС‚СѓРґРµРЅС‚
+ study *  РёР·СѓС‡Р°С‚СЊ
+ stupid *  РіР»СѓРїС‹Р№
+ style *  СЃС‚РёР»СЊ
+ subject *  С‚РµРјР°
+ substance *  РІРµС‰РµСЃС‚РІРѕ
+ succeed *  РїСЂРµСѓСЃРїРµРІР°С‚СЊ
+ success *  СѓСЃРїРµС…
+ successful *  СѓСЃРїРµС€РЅС‹Р№
+ such *  С‚Р°РєРѕР№
+ suck *  СЃРѕСЃР°С‚СЊ
+ sudden *  РІРЅРµР·Р°РїРЅС‹Р№
+ suddenly *  РІРґСЂСѓРі
+ suffer *  СЃС‚СЂР°РґР°С‚СЊ
+ sugar *  СЃР°С…Р°СЂ
+ suggest *  РїСЂРµРґР»Р°РіР°С‚СЊ
+ suit *  РєРѕСЃС‚СЋРј
+ suitable *  РїРѕРґС…РѕРґСЏС‰РёР№
+ suitcase *  С‡РµРјРѕРґР°РЅ
+ sum *  СЃСѓРјРјР°
+ summer *  Р»РµС‚Рѕ
+ sun *  СЃРѕР»РЅС†Рµ
+ Sunday *  РІРѕСЃРєСЂРµСЃРµРЅСЊРµ
+ supply *  РїРѕСЃС‚Р°РІРєР°
+ support *  РїРѕРґРґРµСЂР¶РєР°
+ suppose *  РїРѕР»Р°РіР°С‚СЊ
+ sure *  РєРѕРЅРµС‡РЅРѕ
+ surface *  РїРѕРІРµСЂС…РЅРѕСЃС‚СЊ
+ surprise *  СЃСЋСЂРїСЂРёР·
+ surround *  РѕРєСЂСѓР¶Р°С‚СЊ
+ swallow *  РіР»РѕС‚Р°С‚СЊ
+ swear *  РєР»СЏСЃС‚СЊСЃСЏ
+ sweep *  РјРµСЃС‚Рё
+ sweet *  СЃР»Р°РґРєРёР№
+ swell *  СЂР°СЃРїСѓС…Р°С‚СЊ
+ swim *  РїР»Р°РІР°С‚СЊ
+ swing *  РєР°С‡Р°С‚СЊ(СЃСЏ)
+ sympathetic *  СЃРѕС‡СѓРІСЃС‚РІСѓСЋС‰РёР№
+ sympathy *  СЃРёРјРїР°С‚РёСЏ
+ system *  СЃРёСЃС‚РµРјР°
+ table *  СЃС‚РѕР»
+ tail *  С…РІРѕСЃС‚
+ take *  Р±СЂР°С‚СЊ
+ talk *  РіРѕРІРѕСЂРёС‚СЊ
+ tall *  РІС‹СЃРѕРєРёР№
+ task *  Р·Р°РґР°С‡Р°
+ taste *  РІРєСѓСЃ
+ tax *  РЅР°Р»РѕРі
+ taxi *  С‚Р°РєСЃРё
+ tea *  С‡Р°Р№
+ teach *  СѓС‡РёС‚СЊ
+ teacher *  СѓС‡РёС‚РµР»СЊ
+ team *  РєРѕРјР°РЅРґР°
+ tear *  СЂРІР°С‚СЊ(СЃСЏ)
+ technical *  С‚РµС…РЅРёС‡РµСЃРєРёР№
+ telephone *  С‚РµР»РµС„РѕРЅ
+ television *  С‚РµР»РµРІРёРґРµРЅРёРµ
+ tell *  РіРѕРІРѕСЂРёС‚СЊ
+ temperature *  С‚РµРјРїРµСЂР°С‚СѓСЂР°
+ temporary *  РІСЂРµРјРµРЅРЅС‹Р№
+ ten *  РґРµСЃСЏС‚СЊ
+ tend *  РёРјРµС‚СЊ С‚РµРЅРґРµРЅС†РёСЋ
+ tendency *  С‚РµРЅРґРµРЅС†РёСЏ
+ tennis *  С‚РµРЅРЅРёСЃ
+ tense *  РЅР°РїСЂСЏР¶РµРЅРЅС‹Р№
+ tent *  РїР°Р»Р°С‚РєР°
+ term *  СЃСЂРѕРє
+ terrible *  СѓР¶Р°СЃРЅС‹Р№
+ test *  С‚РµСЃС‚
+ than *  С‡РµРј
+ thank *  Р±Р»Р°РіРѕРґР°СЂРёС‚СЊ
+ thanks *  СЃРїР°СЃРёР±Рѕ
+ that *  С‚РѕС‚
+ the *  РѕРїСЂРµРґРµР»РµРЅРЅС‹Р№ Р°СЂС‚РёРєР»СЊ
+ theater *  С‚РµР°С‚СЂ
+ themselves *  СЃР°РјРё
+ then *  С‚РѕРіРґР°
+ there *  С‚Р°Рј
+ therefore *  РїРѕСЌС‚РѕРјСѓ
+ they *  РѕРЅРё
+ thick *  С‚РѕР»СЃС‚С‹Р№
+ thief *  РІРѕСЂ
+ thin *  С‚РѕРЅРєРёР№
+ thing *  РІРµС‰СЊ
+ think *  РґСѓРјР°С‚СЊ
+ third *  С‚СЂРµС‚РёР№
+ thirteen *  С‚СЂРёРЅР°РґС†Р°С‚СЊ
+ thirty *  С‚СЂРёРґС†Р°С‚СЊ
+ this *  СЌС‚РѕС‚
+ thorough *  С‚С‰Р°С‚РµР»СЊРЅС‹Р№
+ though *  С…РѕС‚СЏ
+ thought *  РјС‹СЃР»СЊ
+ thousand *  С‚С‹СЃСЏС‡Р°
+ thread *  РЅРёС‚СЊ
+ threat *  СѓРіСЂРѕР·Р°
+ threat *  СѓРіСЂРѕР·Р°
+ threaten *  СѓРіСЂРѕР¶Р°С‚СЊ
+ three *  С‚СЂРё
+ throat *  РіРѕСЂР»Рѕ
+ through *  С‡РµСЂРµР·
+ throw *  Р±СЂРѕСЃР°С‚СЊ
+ thumb *  Р±РѕР»СЊС€РѕР№ РїР°Р»РµС† СЂСѓРєРё
+ Thursday *  С‡РµС‚РІРµСЂРі
+ thus *  С‚Р°РєРёРј РѕР±СЂР°Р·РѕРј
+ ticket *  Р±РёР»РµС‚
+ tie *  Р·Р°РІСЏР·С‹РІР°С‚СЊ
+ tight *  С‚СѓРіРѕР№
+ time *  РІСЂРµРјСЏ
+ tire *  С€РёРЅР°
+ tired *  СѓСЃС‚Р°РІС€РёР№
+ tiring *  СѓС‚РѕРјРёС‚РµР»СЊРЅС‹Р№
+ title *  РЅР°Р·РІР°РЅРёРµ
+ to *  РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРµРЅРЅС‹Рµ Р·РЅР°С‡РµРЅРёСЏ
+ tobacco *  С‚Р°Р±Р°Рє
+ today *  СЃРµРіРѕРґРЅСЏ
+ toe *  РїР°Р»РµС† РЅРѕРіРё
+ together *  РІРјРµСЃС‚Рµ
+ toilet *  С‚СѓР°Р»РµС‚
+ tomorrow *  Р·Р°РІС‚СЂР°
+ tongue *  СЏР·С‹Рє
+ tonight *  СЃРµРіРѕРґРЅСЏ РІРµС‡РµСЂРѕРј
+ too *  СЃР»РёС€РєРѕРј
+ tool *  РёРЅСЃС‚СЂСѓРјРµРЅС‚
+ tooth *  Р·СѓР±
+ top *  РІРµСЂС…РЅРёР№
+ total *  РІРµСЃСЊ
+ touch *  РїСЂРёРєР°СЃР°С‚СЊСЃСЏ
+ tourist *  С‚СѓСЂРёСЃС‚
+ toward *  Рє
+ tower *  Р±Р°С€РЅСЏ
+ town *  РіРѕСЂРѕРґ
+ toy *  РёРіСЂСѓС€РєР°
+ track *  СЃР»РµРґРёС‚СЊ
+ trade *  С‚РѕСЂРіРѕРІР»СЏ
+ tradition *  С‚СЂР°РґРёС†РёСЏ
+ traditional *  С‚СЂР°РґРёС†РёРѕРЅРЅС‹Р№
+ traffic *  С‚СЂР°С„РёРє
+ train *  РїРѕРµР·Рґ
+ training *  РїРѕРґРіРѕС‚РѕРІРєР°
+ translate *  РїРµСЂРµРІРѕРґРёС‚СЊ
+ trap *  Р»РѕРІСѓС€РєР°
+ travel *  РїСѓС‚РµС€РµСЃС‚РІРѕРІР°С‚СЊ
+ treat *  РѕС‚РЅРѕСЃРёС‚СЊСЃСЏ
+ treatment *  Р»РµС‡РµРЅРёРµ
+ tree *  РґРµСЂРµРІРѕ
+ trial *  СЃСѓРґ
+ trick *  С‚СЂСЋРє
+ trip *  РїРѕРµР·РґРєР°
+ tropical *  С‚СЂРѕРїРёС‡РµСЃРєРёР№
+ trouble *  Р±РµСЃРїРѕРєРѕР№СЃС‚РІРѕ
+ truck *  РіСЂСѓР·РѕРІРёРє
+ true *  РёСЃС‚РёРЅРЅС‹Р№
+ trust *  РІРµСЂР°
+ truth *  РїСЂР°РІРґР°
+ try *  РїС‹С‚Р°С‚СЊСЃСЏ
+ tube *  С‚СЂСѓР±Р°
+ Tuesday *  РІС‚РѕСЂРЅРёРє
+ tune *  РјРµР»РѕРґРёСЏ
+ turn *  РїРѕРІРѕСЂР°С‡РёРІР°С‚СЊ
+ TV *  С‚РµР»РµРІРёРґРµРЅРёРµ
+ twelve *  РґРІРµРЅР°РґС†Р°С‚СЊ
+ twenty *  РґРІР°РґС†Р°С‚СЊ
+ twice *  РґРІР°Р¶РґС‹
+ twist *  РєСЂСѓС‚РёС‚СЊ
+ two *  РґРІР°
+ type *  С‚РёРї
+ typical *  С‚РёРїРёС‡РЅС‹Р№
+ ugly *  СѓСЂРѕРґР»РёРІС‹Р№
+ uncle *  РґСЏРґСЏ
+ under *  РїРѕРґ
+ understand *  РїРѕРЅРёРјР°С‚СЊ
+ undo *  СЂР°СЃСЃС‚РµРіРёРІР°С‚СЊ
+ uniform *  СѓРЅРёС„РѕСЂРјР°
+ union *  СЃРѕСЋР·
+ unit *  С‡Р°СЃС‚СЊ
+ unite *  РѕР±СЉРµРґРёРЅСЏС‚СЊ(СЃСЏ)
+ universe *  РІСЃРµР»РµРЅРЅР°СЏ
+ university *  СѓРЅРёРІРµСЂСЃРёС‚РµС‚
+ unless *  РµСЃР»Рё РЅРµ
+ until *  РґРѕ
+ up *  РІРІРµСЂС…
+ upon *  РЅР°
+ upper *  РІРµСЂС…РЅРёР№
+ upset *  РѕРіРѕСЂС‡Р°С‚СЊ
+ upstairs *  РЅР°РІРµСЂС…Сѓ
+ urgent *  СЃСЂРѕС‡РЅС‹Р№
+ use *  РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ
+ useful *  РїРѕР»РµР·РЅС‹Р№
+ useless *  Р±РµСЃРїРѕР»РµР·РЅС‹Р№
+ usual *  РѕР±С‹С‡РЅС‹Р№
+ usually *  РѕР±С‹С‡РЅРѕ
+ vacation *  РѕС‚РїСѓСЃРє
+ valley *  РґРѕР»РёРЅР°
+ valuable *  С†РµРЅРЅС‹Р№
+ value *  С†РµРЅРЅРѕСЃС‚СЊ
+ variety *  СЂР°Р·РЅРѕРѕР±СЂР°Р·РёРµ
+ various *  СЂР°Р·Р»РёС‡РЅС‹Р№
+ vegetable *  РѕРІРѕС‰
+ vehicle *  Р°РІС‚РѕРјРѕР±РёР»СЊ
+ verb *  РіР»Р°РіРѕР»
+ very *  РѕС‡РµРЅСЊ
+ victim *  Р¶РµСЂС‚РІР°
+ victory *  РїРѕР±РµРґР°
+ view *  РІРёРґ
+ village *  РґРµСЂРµРІРЅСЏ
+ violence *  РЅР°СЃРёР»РёРµ
+ violent *  Р¶РµСЃС‚РѕРєРёР№
+ visit *  РїРѕСЃРµС‰Р°С‚СЊ
+ voice *  РіРѕР»РѕСЃ
+ vote *  РіРѕР»РѕСЃРѕРІР°С‚СЊ
+ vowel *  РіР»Р°СЃРЅС‹Р№ Р·РІСѓРє
+ waist *  С‚Р°Р»РёСЏ
+ wait *  Р¶РґР°С‚СЊ
+ wake *  РїСЂРѕСЃРЅСѓС‚СЊСЃСЏ
+ walk *  РёРґС‚Рё
+ wall *  СЃС‚РµРЅР°
+ want *  С…РѕС‚РµС‚СЊ
+ war *  РІРѕР№РЅР°
+ warm *  С‚РµРїР»С‹Р№
+ warmth *  С‚РµРїР»Рѕ
+ warn *  РїСЂРµРґСѓРїСЂРµР¶РґР°С‚СЊ
+ warning *  РїСЂРµРґСѓРїСЂРµР¶РґРµРЅРёРµ
+ wash *  РјС‹С‚СЊ(СЃСЏ)
+ waste *  СЂР°СЃС‚СЂР°С‡РёРІР°С‚СЊ
+ watch *  СЃРјРѕС‚СЂРµС‚СЊ
+ water *  РІРѕРґР°
+ wave *  РІРѕР»РЅР°
+ way *  РїСѓС‚СЊ
+ we *  РјС‹
+ weak *  СЃР»Р°Р±С‹Р№
+ wealth *  Р±РѕРіР°С‚СЃС‚РІРѕ
+ weapon *  РѕСЂСѓР¶РёРµ
+ wear *  РЅРѕСЃРёС‚СЊ
+ weather *  РїРѕРіРѕРґР°
+ web *  СЃРµС‚СЊ
+ wedding *  СЃРІР°РґСЊР±Р°
+ Wednesday *  СЃСЂРµРґР°
+ week *  РЅРµРґРµР»СЏ
+ weigh *  РІРµСЃРёС‚СЊ
+ weight *  РІРµСЃ
+ welcome *  РґРѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ
+ well *  С…РѕСЂРѕС€Рѕ
+ west *  Р·Р°РїР°Рґ
+ western *  Р·Р°РїР°РґРЅС‹Р№
+ wet *  РјРѕРєСЂС‹Р№
+ what *  С‡С‚Рѕ
+ whatever *  С‡С‚Рѕ Р±С‹ РЅРё
+ wheel *  РєРѕР»РµСЃРѕ
+ when *  РєРѕРіРґР°
+ whenever *  РєРѕРіРґР° Р±С‹ РЅРё
+ where *  РіРґРµ
+ whether *  Р»Рё
+ which *  РєРѕС‚РѕСЂС‹Р№
+ while *  РїРѕРєР°
+ whisper *  С€РµРїС‚Р°С‚СЊ(СЃСЏ)
+ white *  Р±РµР»С‹Р№
+ who *  РєС‚Рѕ
+ whole *  С†РµР»С‹Р№
+ whom *  РєРѕРіРѕ
+ whose *  С‡РµР№
+ why *  РїРѕС‡РµРјСѓ
+ wide *  С€РёСЂРѕРєРёР№
+ width *  С€РёСЂРёРЅР°
+ wife *  Р¶РµРЅР°
+ wild *  РґРёРєРёР№
+ will *  РѕР±СЂР°Р·СѓРµС‚ Р±СѓРґСѓС‰РµРµ РІСЂРµРјСЏ
+ will *  РІРѕР»СЏ
+ willing *  РіРѕС‚РѕРІС‹Р№ (СЃРґРµР»Р°С‚СЊ С‡С‚Рѕ-Р».)
+ win *  РїРѕР±РµРґРёС‚СЊ
+ wind *  РІРµС‚РµСЂ
+ window *  РѕРєРЅРѕ
+ wine *  РІРёРЅРѕ
+ wing *  РєСЂС‹Р»Рѕ
+ winter *  Р·РёРјР°
+ wire *  РїСЂРѕРІРѕРґ
+ wise *  РјСѓРґСЂС‹Р№
+ wish *  Р¶РµР»Р°С‚СЊ
+ with *  СЃ
+ within *  РІРЅСѓС‚СЂРё
+ without *  Р±РµР·
+ woman *  Р¶РµРЅС‰РёРЅР°
+ wonder *  СѓРґРёРІР»СЏС‚СЊСЃСЏ
+ wood *  РґРµСЂРµРІРѕ
+ wooden *  РґРµСЂРµРІСЏРЅРЅС‹Р№
+ wool *  С€РµСЂСЃС‚СЊ
+ word *  СЃР»РѕРІРѕ
+ work *  СЂР°Р±РѕС‚Р°
+ worker *  СЂР°Р±РѕС‡РёР№
+ world *  РјРёСЂ
+ worry *  Р±РµСЃРїРѕРєРѕРёС‚СЊСЃСЏ
+ worse *  С…СѓР¶Рµ
+ worst *  РЅР°РёС…СѓРґС€РёР№
+ worth *  СЃС‚РѕСЏС‰РёР№
+ would *  РІС‹СЂР°Р¶Р°РµС‚ СѓСЃР»РѕРІРЅРѕРµ РЅР°РєР»РѕРЅРµРЅРёРµ
+ wound *  СЂР°РЅР°
+ wrap *  Р·Р°РІРѕСЂР°С‡РёРІР°С‚СЊ
+ wrist *  Р·Р°РїСЏСЃС‚СЊРµ
+ write *  РїРёСЃР°С‚СЊ
+ writer *  РїРёСЃР°С‚РµР»СЊ
+ wrong *  РЅРµРїСЂР°РІРёР»СЊРЅС‹Р№
+ yard *  СЏСЂРґ (9144 СЃРј)
+ year *  РіРѕРґ
+ yellow *  Р¶РµР»С‚С‹Р№
+ yes *  РґР°
+ yesterday *  РІС‡РµСЂР°
+ yet *  РµС‰Рµ
+ you *  С‚С‹
+ young *  СЋРЅС‹Р№
+ yourself *  СЃРµР±СЏ
+ zero *  РЅРѕР»СЊ
