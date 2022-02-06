@@ -44,19 +44,23 @@ namespace myDicti
         {
             if (!thisDictionary.ContainsKey(word.Key))
                 thisDictionary.Add(word.Key, word);
+            else
+                return;
         }
         public void AddWord(string key, string value) // метод добавления слова и его перевода в словарь
         {
             var Word= new Word<string, List<string>>(key, value);
             if (!thisDictionary.ContainsKey(key))
                 thisDictionary.Add(Word.Key, Word);
+            else
+                return;
         }
         public void RemoveWord(string key) // удаление слова
         {
             thisDictionary.Remove(key);
         }
 
-        public void Clear()
+        public void Clear() // метод удаления слова из словаря
         {
             thisDictionary.Clear();
         }

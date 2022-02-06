@@ -16,18 +16,18 @@ namespace MyDicty
     public partial class mainForm : Form
     {
         myDicti.MyDictionary CurrentDicti = new myDicti.MyDictionary();
-        static string Lexicons = @"H:\111_IT_Step\WinForms\repos\MyDicty\Files\LexiconsList.txt";
+        static string Lexicons = @"H:\111_IT_Step\WinForms\repos\MyDicty\Files\LexiconsList.txt"; // файл хранения списка словарей
         private string line = "";
-        private int ListSize = 0;
-        public string[] LangList;
+        private int ListSize = 0; // количество словарей
+        public string[] LangList; // список словарей
 
         public mainForm()
         {
             InitializeComponent();
-            lexiconInitFunc();
+            lexiconInitFunc(); // завгрузка списка словарей из файла в переменную LangList
         }
 
-        private void LangListZise()
+        private void LangListZise() // вычисление количества словарей 
         {
             using (StreamReader sr = new StreamReader(Lexicons))
                 while ((line = sr.ReadLine()) != null)
@@ -36,7 +36,7 @@ namespace MyDicty
                 }
             LangList = new string[ListSize];
         }
-        private void lexiconInitFunc()
+        private void lexiconInitFunc() // функция завгрузки списка словарей из файла в переменную LangList
         {
             LangListZise();
             int size = 0;
@@ -47,7 +47,7 @@ namespace MyDicty
                     size++;
                 }
         }
-        private void newLexiconFunc()
+        private void newLexiconFunc() // функция создания нового словаря
         {
             string _filename = null;
             SaveFileDialog sfd = new SaveFileDialog();
@@ -60,11 +60,11 @@ namespace MyDicty
             {
             using (StreamWriter sw = new StreamWriter(Lexicons, true, Encoding.Default))
                   {
-                    sw.WriteLine(_filename);
+                    sw.WriteLine(_filename); // запись пути доступа к файлу нового словаря в реестр словарей
                   }
                 using (StreamWriter sW = new StreamWriter(_filename + ".txt"))
                 {
-                    sW.WriteLine();
+                    sW.WriteLine();  // создание файла нового словаря
                 }                
             }
             catch (Exception ex)
@@ -105,60 +105,60 @@ namespace MyDicty
                 MessageBox.Show("Unable to save in file");
             }
         }
-        private void save(object sender, EventArgs e)
+        private void save(object sender, EventArgs e) // сохранение 
         {
-            //saveFile(LangList[DictiBox.SelectedIndex]);
+            saveFile(LangList[DictiBox.SelectedIndex]);
         }
 
-        private void saveAs(object sender, EventArgs e)
+        private void saveAs(object sender, EventArgs e) // сохранение с новым именем
         {
             saveFile("");
         }
 
-        private void addItemFunc()
+        private void addItemFunc()  // функция добавления варианта перевода
         {
             CurrentDicti.addItem(keyBox.Text, translateBox.Text);
             translateBox.Text = CurrentDicti.GetWord(keyBox.Text);
             MessageBox.Show("Перевод добавлен");
         }
-        private void addItemBtn_Click(object sender, EventArgs e) // удалить вариант перевода
+        private void addItemBtn_Click(object sender, EventArgs e) // добавление варианта перевода через кнопку
         {
             addItemFunc();
         }
 
-        private void addItem(object sender, EventArgs e)
+        private void addItem(object sender, EventArgs e) // добавление варианта перевода через меню
         {
             addItemFunc();
         }
-        private void removeItemFunc()
+        private void removeItemFunc()  // функция удаления варианта перевода
         {
             CurrentDicti.removeItem(keyBox.Text, translateBox.Text);
             translateBox.Text = CurrentDicti.GetWord(keyBox.Text);
             MessageBox.Show("Перевод удалён");
         }
-        private void removeItemBtn_Click(object sender, EventArgs e)
+        private void removeItemBtn_Click(object sender, EventArgs e) // удалить вариант перевода кнопкой
         {
             removeItemFunc();
         }
-        private void removeItem(object sender, EventArgs e)
+        private void removeItem(object sender, EventArgs e) // удалить вариант перевода через меню
         {
             removeItemFunc();
         }
-        private void RemoveWordFunc()
+        private void RemoveWordFunc() // функция удаления слова из словаря
         {
             CurrentDicti.RemoveWord(keyBox.Text);
             keyBox.Text = translateBox.Text = null;
             MessageBox.Show("Слово " + Convert.ToString(keyBox.Text) + " удалено из словаря");
         }
-        private void removeWordBtn_Click(object sender, EventArgs e)
+        private void removeWordBtn_Click(object sender, EventArgs e) // удаление слова из словаря через кнопку
         {
             RemoveWordFunc();
         }
-        private void RemoveWord(object sender, EventArgs e)
+        private void RemoveWord(object sender, EventArgs e) // удаление слова из словаря через меню
         {
             RemoveWordFunc();
         }
-        private void addWordFunc()
+        private void addWordFunc() // функция добавления слова в словарь
         {
             if (keyBox.Text != null && translateBox.Text != null)
             {
@@ -178,7 +178,7 @@ namespace MyDicty
             addWordFunc();
         }
 
-        private void WordToFile(object sender, EventArgs e)
+        private void WordToFile(object sender, EventArgs e) // запись слова в отдельный словарь
         {
             string Path = null;
             if (saveWordDialog.ShowDialog() == DialogResult.OK)
