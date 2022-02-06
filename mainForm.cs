@@ -82,6 +82,7 @@ namespace MyDicty
             CurrentDicti.Clear();  // удаление всех слов
             CurrentDicti.LanguageBaseLoad(LangList[DictiBox.SelectedIndex]) ; // загрузка выбранного словаря
         }
+        
         private void SearchKey(object sender, EventArgs e) // поиск слова по ключу
         {
             if (searchFlag == true)        
@@ -123,7 +124,7 @@ namespace MyDicty
 
         private void addItemFunc()  // функция добавления варианта перевода
         {
-            CurrentDicti.addItem(keyBox.Text, translateBox.Text);
+            CurrentDicti.addItem(keyBox.Text, addRemoveItem(translateBox.Text));
             translateBox.Text = CurrentDicti.GetWord(keyBox.Text);
             MessageBox.Show("Перевод добавлен");
         }
@@ -136,11 +137,23 @@ namespace MyDicty
         {
             addItemFunc();
         }
+        private string addRemoveItem(string item)
+        {
+            string[] list = item.Split();
+            return list[list.Length - 1];
+        }
         private void removeItemFunc()  // функция удаления варианта перевода
         {
-            CurrentDicti.removeItem(keyBox.Text, translateBox.Text);
+            if(CurrentDicti.removeItem(keyBox.Text, addRemoveItem(translateBox.Text)))
+            {
             translateBox.Text = CurrentDicti.GetWord(keyBox.Text);
             MessageBox.Show("Перевод удалён");
+            }
+            else
+            MessageBox.Show("Нельзя удалить последний перевод");
+
+
+
         }
         private void removeItemBtn_Click(object sender, EventArgs e) // удалить вариант перевода кнопкой
         {

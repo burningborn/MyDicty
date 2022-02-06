@@ -30,6 +30,7 @@ namespace MyDicty
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(mainForm));
             this.DictiLbl = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.MenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -240,8 +241,8 @@ namespace MyDicty
             this.addItemBtn.Size = new System.Drawing.Size(83, 23);
             this.addItemBtn.TabIndex = 8;
             this.addItemBtn.Text = "Добавить";
-            this.toolAddWord.SetToolTip(this.addItemBtn, "Для добавления варианта\r\n перевода удалите из \r\nформы переводов все \r\nварианты, в" +
-        "пишите новый \r\nвариант и нажмите \"Добавить\"");
+            this.toolAddWord.SetToolTip(this.addItemBtn, "Для добавления варианта\r\nперевода просто допишите новый \r\nвариант и нажмите \"Доба" +
+        "вить\"\r\n");
             this.addItemBtn.UseVisualStyleBackColor = false;
             this.addItemBtn.Click += new System.EventHandler(this.addItemBtn_Click);
             // 
@@ -265,8 +266,7 @@ namespace MyDicty
             this.removeItemBtn.Size = new System.Drawing.Size(83, 23);
             this.removeItemBtn.TabIndex = 10;
             this.removeItemBtn.Text = "Удалить";
-            this.toolAddWord.SetToolTip(this.removeItemBtn, "Для удаления варианта\r\n перевода удалите из \r\nформы переводов все \r\nварианты, впи" +
-        "шите \r\nвариант который хотите \r\nудалить и нажмите \"Удалить\"\r\n");
+            this.toolAddWord.SetToolTip(this.removeItemBtn, resources.GetString("removeItemBtn.ToolTip"));
             this.removeItemBtn.UseVisualStyleBackColor = false;
             this.removeItemBtn.Click += new System.EventHandler(this.removeItemBtn_Click);
             // 

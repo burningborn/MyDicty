@@ -32,13 +32,20 @@ namespace myDicti
             }
         }
 
-        public void removeItem(string key, string tranceVar)
+        public bool removeItem(string key, string tranceVar)
         {
+            bool remove = false;
             foreach (var item in thisDictionary)
             {
                 if (item.Key == key)
-                    item.Value.RemoveOneVar(tranceVar);
+                {
+                    if (item.Value.RemoveOneVar(tranceVar))
+                        remove = true;
+                    else
+                        remove = false;
+                }
             }
+                return remove;
         }
         public void AddWord(Word<string, List<string>> word) // метод добавления имеющиегося слова в словарь
         {

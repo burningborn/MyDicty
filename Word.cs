@@ -30,11 +30,17 @@ namespace myDicti
         {
             Variants.Add(value);
         }
-        public void RemoveOneVar(string value) // добавление вариата перевода
+        public bool RemoveOneVar(string value) // добавление вариата перевода
         {
             if (Variants.Count == 1)
-                return;
+            {
+                return false;
+            }
+            else 
+            { 
             Variants.Remove(value);
+                return true;
+            }
         }
         public string searchByEiem(string varItem)
         {

@@ -126,9 +126,24 @@
   <metadata name="toolAddWord.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>540, 17</value>
   </metadata>
+  <metadata name="toolAddWord.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>540, 17</value>
+  </metadata>
   <metadata name="saveWordDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>249, 17</value>
   </metadata>
+  <data name="removeItemBtn.ToolTip" xml:space="preserve">
+    <value>Для удаления варианта
+ перевода удалите из 
+формы переводов все 
+варианты, впишите 
+вариант который хотите 
+удалить и нажмите "Удалить"
+Если просто нажать "Удалить"
+будет удалён последний вариант.
+
+</value>
+  </data>
   <metadata name="newLexiconDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>390, 17</value>
   </metadata>
