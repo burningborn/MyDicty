@@ -35,7 +35,14 @@ namespace myDicti
             if (Variants.Count == 1)
                 return;
             Variants.Remove(value);
-        } 
+        }
+        public string searchByEiem(string varItem)
+        {
+            if (Variants.Contains(varItem))
+                return Key;
+            else
+                return default;
+        }
         public void WordToFile(string Path)// запись в файл
         {
             try

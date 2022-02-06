@@ -107,7 +107,17 @@ namespace myDicti
                 return default;
             }
         }
-
+        public string searchByEiem(string varItem)
+        {
+            string temp = null;
+            foreach (var item in thisDictionary)
+            {
+                temp = item.Value.searchByEiem(varItem);
+                if (item.Key.Equals(temp))
+                    return temp;
+            }
+            return default;
+        }
         public string GetWord(string key) // метод получения слова из словаря в виде строки
         {
             if (thisDictionary.ContainsKey(key))

@@ -55,6 +55,8 @@ namespace MyDicty
             this.wordLbl = new System.Windows.Forms.Label();
             this.itemLbl = new System.Windows.Forms.Label();
             this.newLexiconDialog = new System.Windows.Forms.SaveFileDialog();
+            this.radioWordBtn = new System.Windows.Forms.RadioButton();
+            this.radioItemBtn = new System.Windows.Forms.RadioButton();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -213,6 +215,7 @@ namespace MyDicty
             this.translateBox.Name = "translateBox";
             this.translateBox.Size = new System.Drawing.Size(184, 23);
             this.translateBox.TabIndex = 6;
+            this.translateBox.TextChanged += new System.EventHandler(this.searchByItem);
             // 
             // addKey
             // 
@@ -276,12 +279,38 @@ namespace MyDicty
             this.itemLbl.TabIndex = 12;
             this.itemLbl.Text = "ПЕРЕВОД";
             // 
+            // radioWordBtn
+            // 
+            this.radioWordBtn.AutoSize = true;
+            this.radioWordBtn.Location = new System.Drawing.Point(66, 200);
+            this.radioWordBtn.Name = "radioWordBtn";
+            this.radioWordBtn.Size = new System.Drawing.Size(137, 17);
+            this.radioWordBtn.TabIndex = 13;
+            this.radioWordBtn.TabStop = true;
+            this.radioWordBtn.Text = "ПОИСК ПО СЛОВУ";
+            this.radioWordBtn.UseVisualStyleBackColor = true;
+            this.radioWordBtn.CheckedChanged += new System.EventHandler(this.radioWordBtn_CheckedChanged);
+            // 
+            // radioItemBtn
+            // 
+            this.radioItemBtn.AutoSize = true;
+            this.radioItemBtn.Location = new System.Drawing.Point(351, 200);
+            this.radioItemBtn.Name = "radioItemBtn";
+            this.radioItemBtn.Size = new System.Drawing.Size(163, 17);
+            this.radioItemBtn.TabIndex = 14;
+            this.radioItemBtn.TabStop = true;
+            this.radioItemBtn.Text = "ПОИСК ПО ПЕРЕВОДУ";
+            this.radioItemBtn.UseVisualStyleBackColor = true;
+            this.radioItemBtn.CheckedChanged += new System.EventHandler(this.radioItemBtn_CheckedChanged);
+            // 
             // mainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(565, 229);
+            this.Controls.Add(this.radioItemBtn);
+            this.Controls.Add(this.radioWordBtn);
             this.Controls.Add(this.itemLbl);
             this.Controls.Add(this.wordLbl);
             this.Controls.Add(this.removeItemBtn);
@@ -331,6 +360,8 @@ namespace MyDicty
         private System.Windows.Forms.Label wordLbl;
         private System.Windows.Forms.Label itemLbl;
         private System.Windows.Forms.SaveFileDialog newLexiconDialog;
+        private System.Windows.Forms.RadioButton radioWordBtn;
+        private System.Windows.Forms.RadioButton radioItemBtn;
     }
 }
 

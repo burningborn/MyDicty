@@ -20,6 +20,7 @@ namespace MyDicty
         private string line = "";
         private int ListSize = 0; // количество словарей
         public string[] LangList; // список словарей
+        private bool searchFlag = true;
 
         public mainForm()
         {
@@ -83,9 +84,14 @@ namespace MyDicty
         }
         private void SearchKey(object sender, EventArgs e) // поиск слова по ключу
         {
+            if (searchFlag == true)        
             translateBox.Text = CurrentDicti.GetWord(keyBox.Text); // вывод результата на экран 
         }
-
+        private void searchByItem(object sender, EventArgs e)
+        {
+            if (searchFlag == false)
+                keyBox.Text = CurrentDicti.searchByEiem(translateBox.Text);
+        }
         public void saveFile(string _filename) // функция сохранения файла
         {
             if (_filename == "")
@@ -195,6 +201,16 @@ namespace MyDicty
             {
                 MessageBox.Show(ex.Message);
             }
-        }       
+        }
+
+        private void radioItemBtn_CheckedChanged(object sender, EventArgs e)
+        {
+            searchFlag = false;
+        }
+
+        private void radioWordBtn_CheckedChanged(object sender, EventArgs e)
+        {
+            searchFlag = true;
+        }
     }
 }       
