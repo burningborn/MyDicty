@@ -1,0 +1,4 @@
+H:\111_IT_Step\WinForms\repos\MyDicty\Files\Languages\engRus.txt
+H:\111_IT_Step\WinForms\repos\MyDicty\Files\Languages\rusEng.txt
+H:\111_IT_Step\WinForms\repos\MyDicty\Files\Languages\gemRus.txt
+H:\111_IT_Step\WinForms\repos\MyDicty\Files\Languages\rusGem.txt
