@@ -29,6 +29,7 @@ namespace MyDicty
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.DictiLbl = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.MenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -57,6 +58,7 @@ namespace MyDicty
             this.newLexiconDialog = new System.Windows.Forms.SaveFileDialog();
             this.radioWordBtn = new System.Windows.Forms.RadioButton();
             this.radioItemBtn = new System.Windows.Forms.RadioButton();
+            this.toolAddWord = new System.Windows.Forms.ToolTip(this.components);
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -225,6 +227,8 @@ namespace MyDicty
             this.addKey.Size = new System.Drawing.Size(83, 23);
             this.addKey.TabIndex = 7;
             this.addKey.Text = "Добавить";
+            this.toolAddWord.SetToolTip(this.addKey, "Для добавления слова \r\nнапишите слово и его \r\nпервод в соответствующих \r\nокнах и " +
+        "нажмите \"Добавить\".\r\n");
             this.addKey.UseVisualStyleBackColor = false;
             this.addKey.Click += new System.EventHandler(this.addKey_Click);
             // 
@@ -236,6 +240,8 @@ namespace MyDicty
             this.addItemBtn.Size = new System.Drawing.Size(83, 23);
             this.addItemBtn.TabIndex = 8;
             this.addItemBtn.Text = "Добавить";
+            this.toolAddWord.SetToolTip(this.addItemBtn, "Для добавления варианта\r\n перевода удалите из \r\nформы переводов все \r\nварианты, в" +
+        "пишите новый \r\nвариант и нажмите \"Добавить\"");
             this.addItemBtn.UseVisualStyleBackColor = false;
             this.addItemBtn.Click += new System.EventHandler(this.addItemBtn_Click);
             // 
@@ -247,6 +253,7 @@ namespace MyDicty
             this.removeWordBtn.Size = new System.Drawing.Size(83, 23);
             this.removeWordBtn.TabIndex = 9;
             this.removeWordBtn.Text = "Удалить";
+            this.toolAddWord.SetToolTip(this.removeWordBtn, "Для удаления слова \r\nтекщего слова из \r\nсловаря нажмите \"Удалить\".\r\n");
             this.removeWordBtn.UseVisualStyleBackColor = false;
             this.removeWordBtn.Click += new System.EventHandler(this.removeWordBtn_Click);
             // 
@@ -258,6 +265,8 @@ namespace MyDicty
             this.removeItemBtn.Size = new System.Drawing.Size(83, 23);
             this.removeItemBtn.TabIndex = 10;
             this.removeItemBtn.Text = "Удалить";
+            this.toolAddWord.SetToolTip(this.removeItemBtn, "Для удаления варианта\r\n перевода удалите из \r\nформы переводов все \r\nварианты, впи" +
+        "шите \r\nвариант который хотите \r\nудалить и нажмите \"Удалить\"\r\n");
             this.removeItemBtn.UseVisualStyleBackColor = false;
             this.removeItemBtn.Click += new System.EventHandler(this.removeItemBtn_Click);
             // 
@@ -363,6 +372,7 @@ namespace MyDicty
         private System.Windows.Forms.SaveFileDialog newLexiconDialog;
         private System.Windows.Forms.RadioButton radioWordBtn;
         private System.Windows.Forms.RadioButton radioItemBtn;
+        private System.Windows.Forms.ToolTip toolAddWord;
     }
 }
 
