@@ -77,7 +77,7 @@ namespace MyDicty
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(565, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(569, 24);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -307,8 +307,9 @@ namespace MyDicty
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.ClientSize = new System.Drawing.Size(565, 229);
+            this.ClientSize = new System.Drawing.Size(569, 231);
             this.Controls.Add(this.radioItemBtn);
             this.Controls.Add(this.radioWordBtn);
             this.Controls.Add(this.itemLbl);
