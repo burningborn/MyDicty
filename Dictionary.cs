@@ -139,11 +139,11 @@ namespace myDicti
         }
         public string GetWord(string key) // метод получения слова из словаря в виде строки
         {
-            if (thisDictionary.ContainsKey(key))
+            if (key != null)
             { 
                 string temp = null;
             foreach (var item in thisDictionary)
-                if (item.Key.Equals(key))
+                if (String.Compare(item.Key, key, true) == 0)
                 {
                     temp = item.Value.ToString();
                 }

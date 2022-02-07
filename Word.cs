@@ -51,8 +51,16 @@ namespace myDicti
         }
         public string searchByEiem(string varItem)
         {
-            if (Variants.Contains(varItem))
-                return Key;
+            if(varItem !=null)
+            {
+                string temp = null;
+                foreach (var item in Variants)
+                {
+                    if (String.Compare(item, varItem, true) == 0)
+                        temp = Key;
+                }
+                return temp;
+            }           
             else
                 return default;
         }
@@ -72,7 +80,7 @@ namespace myDicti
         }
         public string GetString()
         {
-            string sum = "";
+            string sum = null;
             foreach (var item in Variants)
                 sum += " " + item;
                 sum.TrimStart();
