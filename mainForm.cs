@@ -102,6 +102,10 @@ namespace MyDicty
                 {
                     _filename = saveFileDialog.FileName;
                 }
+                else
+                {
+
+                }
             }
             try
             {
@@ -239,6 +243,8 @@ namespace MyDicty
             {
                 string _filename = "";
                 saveFile(_filename);
+                if (_filename == "")
+                    e.Cancel = true;
             }
         }
     }
