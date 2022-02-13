@@ -216,6 +216,7 @@ namespace MyDicty
             this.translateBox.Location = new System.Drawing.Point(328, 125);
             this.translateBox.Multiline = true;
             this.translateBox.Name = "translateBox";
+            this.translateBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.translateBox.Size = new System.Drawing.Size(184, 23);
             this.translateBox.TabIndex = 6;
             this.translateBox.TextChanged += new System.EventHandler(this.searchByItem);

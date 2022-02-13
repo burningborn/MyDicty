@@ -189,8 +189,10 @@ namespace MyDicty
         {
             if (keyBox.Text != null && translateBox.Text != null)
             {
-                CurrentDicti.AddWord(keyBox.Text, translateBox.Text);
-                MessageBox.Show("Cлово " + Convert.ToString(keyBox.Text) + " и его перевод добавлены в словарь");
+                if (CurrentDicti.AddWord(keyBox.Text, translateBox.Text) == true)
+                    MessageBox.Show("Cлово " + Convert.ToString(keyBox.Text) + " и его перевод добавлены в словарь");
+                else
+                    MessageBox.Show($"Слово {keyBox.Text} уже есть в словаре.");
             }
             else
                 MessageBox.Show("Вам необходимо ввести слово и его перевод");

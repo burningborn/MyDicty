@@ -62,13 +62,28 @@ namespace myDicti
             else
                 return;
         }
-        public void AddWord(string key, string value) // метод добавления слова и его перевода в словарь
+        public bool AddWord(string key, string value) // метод добавления слова и его перевода в словарь
         {
-            var Word= new Word<string, List<string>>(key, value);
-            if (!thisDictionary.ContainsKey(key))
-                thisDictionary.Add(Word.Key, Word);
-            else
-                return;
+            bool add = true; 
+            foreach (var item in thisDictionary)
+            {
+
+                if (String.Compare(item.Key, key, true) == 0)
+                {
+                    add = false;
+                    break;
+                }
+                else
+                {
+                    add = true;
+                }
+            }
+            if(add == true)
+            {
+                    var Word= new Word<string, List<string>>(key, value);
+                    thisDictionary.Add(Word.Key, Word);
+            }
+                return add;            
         }
         public void RemoveWord(string key) // удаление слова
         {
