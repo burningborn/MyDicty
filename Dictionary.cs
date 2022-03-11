@@ -19,9 +19,11 @@ namespace myDicti
         {
             thisDictionary = new Dictionary<string, Word<string, List<string>>>();
         }
-        public IEnumerator GetEnumerator() => thisDictionary.GetEnumerator(); //определяем публичный метод GetEnumerator для работы с foreach
 
         //-------------------------------МЕТОДЫ--------------------------
+        public IEnumerator GetEnumerator() { 
+            return thisDictionary.GetEnumerator(); 
+        } //определяем публичный метод GetEnumerator для работы с foreach
 
         public bool addItem(string key, string tranceVar)
         {
@@ -138,7 +140,7 @@ namespace myDicti
             }
             else
             {
-                return default;
+                return default;//null
             }
         }
         public string searchByEiem(string varItem)

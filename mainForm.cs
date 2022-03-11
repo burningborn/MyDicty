@@ -128,7 +128,14 @@ namespace MyDicty
 
         private void addItemFunc()  // функция добавления варианта перевода
         {
-            if (CurrentDicti.addItem(keyBox.Text, addRemoveItem(translateBox.Text)))
+            if (keyBox.Text == "")
+            {
+
+                var result = MessageBox.Show("Введите слово", "Message", MessageBoxButtons.OK);
+                if (DialogResult==result)    
+                    return; 
+            }
+            else if (CurrentDicti.addItem(keyBox.Text, addRemoveItem(translateBox.Text)))
             {
                 translateBox.Text = CurrentDicti.GetWord(keyBox.Text);
                 MessageBox.Show("Перевод добавлен");
@@ -186,8 +193,8 @@ namespace MyDicty
             RemoveWordFunc();
         }
         private void addWordFunc() // функция добавления слова в словарь
-        {
-            if (keyBox.Text != null && translateBox.Text != null)
+        {           
+            if (keyBox.Text != "" && translateBox.Text != "")
             {
                 if (CurrentDicti.AddWord(keyBox.Text, translateBox.Text) == true)
                     MessageBox.Show("Cлово " + Convert.ToString(keyBox.Text) + " и его перевод добавлены в словарь");
@@ -195,7 +202,7 @@ namespace MyDicty
                     MessageBox.Show($"Слово {keyBox.Text} уже есть в словаре.");
             }
             else
-                MessageBox.Show("Вам необходимо ввести слово и его перевод");
+                MessageBox.Show("Вам необходимо ввести слово и (или) его перевод");
         }
         private void addKey_Click(object sender, EventArgs e) // добаить слово //кнопка
         {
